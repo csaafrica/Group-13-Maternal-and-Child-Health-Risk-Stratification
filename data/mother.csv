@@ -1,0 +1,956 @@
+geographic_area,indicator,sex,current_age,wealth_quintile,residence,mother's_education_level,time_period,obs_value,sub_sector,risk_category
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2000,76.2,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2000,80.7,ANTENATAL,Low
+Kenya,indicator_25,Total,15 to 49 years old,total,rural,total,2000,34.4,DELIVERY,Low
+Kenya,indicator_13,Total,Total,total,total,total,2000,43.0,MATERNAL_MORTALITY,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2000,74.4,ANTENATAL,Low
+Kenya,indicator_14,Total,Total,total,total,total,2000,5488.4,MATERNAL_MORTALITY,Low
+Kenya,indicator_25,Total,15 to 49 years old,total,urban,total,2000,63.8,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,total,total,total,2000,42.6,DELIVERY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2000,445.12,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2001,5507.0,MATERNAL_MORTALITY,Low
+Kenya,indicator_13,Total,Total,total,total,total,2001,45.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2001,135.7,FERTILITY,High
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2001,8.1,FERTILITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2001,433.38,MATERNAL_MORTALITY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2002,45.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2002,436.42,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2002,5687.3,MATERNAL_MORTALITY,Low
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2002,2.7,FERTILITY,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2002,114.2,FERTILITY,High
+Kenya,indicator_25,Total,15 to 49 years old,total,urban,total,2003,72.0,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,total,rural,total,2003,34.5,DELIVERY,Low
+Kenya,indicator_5,Total,Total,total,urban,total,2003,9.4,DELIVERY,High
+Kenya,indicator_18,Total,Total,total,total,total,2003,428.75,MATERNAL_MORTALITY,Medium
+Kenya,indicator_5,Total,Total,total,rural,total,2003,2.8,DELIVERY,Low
+Kenya,indicator_5,Total,Total,highest,total,total,2003,11.2,DELIVERY,High
+Kenya,indicator_5,Total,Total,fourth,total,total,2003,3.2,DELIVERY,Medium
+Kenya,indicator_11,Total,15 to 49 years old,lowest,total,total,2003,1.7,MALA,Low
+Kenya,indicator_5,Total,Total,middle,total,total,2003,2.6,DELIVERY,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,rural,total,2003,2.0,MALA,Low
+Kenya,indicator_5,Total,Total,second,total,total,2003,3.0,DELIVERY,Low
+Kenya,indicator_2,Total,15 to 19 years old,total,total,total,2003,83.8,ANTENATAL,Low
+Kenya,indicator_5,Total,Total,lowest,total,total,2003,1.2,DELIVERY,Low
+Kenya,indicator_8,Total,Total,total,total,total,2003,40.1,DELIVERY,Medium
+Kenya,indicator_5,Total,15 to 19 years old,total,total,total,2003,3.9,DELIVERY,Medium
+Kenya,indicator_8,Total,15 to 19 years old,total,total,total,2003,45.9,DELIVERY,Medium
+Kenya,indicator_4,Total,20 to 24 years old,total,total,total,2003,22.7,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,fourth,total,total,2003,54.9,DELIVERY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,middle,total,total,2003,2.0,MALA,Low
+Kenya,indicator_8,Total,Total,lowest,total,total,2003,16.0,DELIVERY,Low
+Kenya,indicator_5,Total,Total,total,total,total,2003,4.0,DELIVERY,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2003,12.7,FAMILY_PLANNING,Low
+Kenya,indicator_25,Total,15 to 49 years old,total,total,total,2003,41.6,DELIVERY,Low
+Kenya,indicator_11,Total,15 to 49 years old,highest,total,total,2003,7.6,MALA,Low
+Kenya,indicator_11,Total,15 to 49 years old,total,rural,total,2003,5.1,MALA,Low
+Kenya,indicator_11,Total,15 to 49 years old,total,urban,total,2003,6.6,MALA,Low
+Kenya,indicator_11,Total,15 to 49 years old,total,total,total,2003,5.4,MALA,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,urban,total,2003,2.0,MALA,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2003,3.0,MALA,Low
+Kenya,indicator_13,Total,Total,total,total,total,2003,47.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,highest,total,total,2003,2.0,MALA,Low
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2003,75.1,ANTENATAL,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,total,primary education,2003,2.0,MALA,Low
+Kenya,indicator_14,Total,Total,total,total,total,2003,5693.3,MATERNAL_MORTALITY,Low
+Kenya,indicator_11,Total,15 to 49 years old,fourth,total,total,2003,7.4,MALA,Low
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2003,31.5,FAMILY_PLANNING,Low
+Kenya,indicator_9,Total,15 to 49 years old,fourth,total,total,2003,2.0,MALA,Low
+Kenya,indicator_11,Total,15 to 49 years old,middle,total,total,2003,6.5,MALA,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,total,total,2003,2.0,MALA,Low
+Kenya,indicator_11,Total,15 to 49 years old,second,total,total,2003,4.0,MALA,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2003,1.0,MALA,Low
+Kenya,indicator_3,Total,15 to 49 years old,total,total,total,2003,52.3,ANTENATAL,Medium
+Kenya,indicator_25,Total,15 to 49 years old,highest,total,total,2003,75.4,DELIVERY,Medium
+Kenya,indicator_3,Total,15 to 49 years old,lowest,total,total,2003,39.5,ANTENATAL,Low
+Kenya,indicator_9,Total,15 to 49 years old,second,total,total,2003,3.0,MALA,Low
+Kenya,indicator_3,Total,15 to 19 years old,total,total,total,2003,42.2,ANTENATAL,Low
+Kenya,indicator_8,Total,Total,total,rural,total,2003,33.2,DELIVERY,Low
+Kenya,indicator_25,Total,15 to 49 years old,middle,total,total,2003,38.2,DELIVERY,Low
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2003,92.4,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2003,93.2,ANTENATAL,Medium
+Kenya,indicator_8,Total,Total,total,urban,total,2003,70.2,DELIVERY,High
+Kenya,indicator_9,Total,15 to 49 years old,lowest,total,total,2003,2.0,MALA,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2003,86.8,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2003,93.0,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2003,93.9,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,second,total,total,2003,42.1,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2003,88.1,ANTENATAL,Low
+Kenya,indicator_3,Total,15 to 49 years old,highest,total,total,2003,63.1,ANTENATAL,High
+Kenya,indicator_8,Total,Total,middle,total,total,2003,36.5,DELIVERY,Medium
+Kenya,indicator_3,Total,15 to 49 years old,fourth,total,total,2003,53.2,ANTENATAL,Medium
+Kenya,indicator_8,Total,Total,fourth,total,total,2003,53.2,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2003,87.4,ANTENATAL,Low
+Kenya,indicator_25,Total,15 to 49 years old,lowest,total,total,2003,17.0,DELIVERY,Low
+Kenya,indicator_3,Total,15 to 49 years old,total,rural,total,2003,48.6,ANTENATAL,Low
+Kenya,indicator_8,Total,Total,second,total,total,2003,31.4,DELIVERY,Low
+Kenya,indicator_8,Total,Total,highest,total,total,2003,73.8,DELIVERY,High
+Kenya,indicator_3,Total,15 to 49 years old,total,urban,total,2003,66.7,ANTENATAL,High
+Kenya,indicator_25,Total,15 to 19 years old,total,total,total,2003,47.2,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,second,total,total,2003,32.8,DELIVERY,Low
+Kenya,indicator_3,Total,15 to 49 years old,middle,total,total,2003,49.1,ANTENATAL,Medium
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2004,3.5,FERTILITY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2004,48.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2004,5782.6,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2004,426.04,MATERNAL_MORTALITY,Low
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2004,120.5,FERTILITY,High
+Kenya,indicator_14,Total,Total,total,total,total,2005,6019.3,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2005,433.57,MATERNAL_MORTALITY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2005,47.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_8,Total,Total,total,total,total,2006,39.1,DELIVERY,Medium
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2006,2.8,FERTILITY,Medium
+Kenya,indicator_8,Total,Total,total,urban,total,2006,66.2,DELIVERY,Medium
+Kenya,indicator_8,Total,Total,total,rural,total,2006,32.6,DELIVERY,Low
+Kenya,indicator_13,Total,Total,total,total,total,2006,46.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2006,449.63,MATERNAL_MORTALITY,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2006,106.3,FERTILITY,High
+Kenya,indicator_14,Total,Total,total,total,total,2006,6387.1,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2007,474.92,MATERNAL_MORTALITY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2007,44.0,MATERNAL_MORTALITY,Low
+Kenya,indicator_14,Total,Total,total,total,total,2007,6918.3,MATERNAL_MORTALITY,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2007,103.0,FERTILITY,High
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2007,2.4,FERTILITY,Low
+Kenya,indicator_14,Total,Total,total,total,total,2008,7182.0,MATERNAL_MORTALITY,High
+Kenya,indicator_18,Total,Total,total,total,total,2008,483.96,MATERNAL_MORTALITY,High
+Kenya,indicator_13,Total,Total,total,total,total,2008,43.0,MATERNAL_MORTALITY,Low
+Kenya,indicator_11,Total,15 to 49 years old,highest,total,total,2009,43.3,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,second,total,total,2009,51.3,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2009,8.0,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2009,2.0,MALA,Low
+Kenya,indicator_11,Total,15 to 49 years old,fourth,total,total,2009,61.1,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,lowest,total,total,2009,46.3,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,primary education,2009,6.0,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,total,2009,6.0,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,middle,total,total,2009,47.9,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,urban,total,2009,50.9,MALA,Medium
+Kenya,indicator_25,Total,15 to 19 years old,total,total,total,2009,55.6,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,lowest,total,total,2009,20.3,DELIVERY,Low
+Kenya,indicator_25,Total,15 to 49 years old,second,total,total,2009,31.3,DELIVERY,Low
+Kenya,indicator_25,Total,15 to 49 years old,middle,total,total,2009,41.9,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,total,total,total,2009,43.8,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,total,urban,total,2009,74.8,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,total,rural,total,2009,36.8,DELIVERY,Low
+Kenya,indicator_25,Total,15 to 49 years old,highest,total,total,2009,81.4,DELIVERY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,fourth,total,total,2009,52.9,DELIVERY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2009,498.31,MATERNAL_MORTALITY,High
+Kenya,indicator_14,Total,Total,total,total,total,2009,7484.3,MATERNAL_MORTALITY,High
+Kenya,indicator_13,Total,Total,total,total,total,2009,43.0,MATERNAL_MORTALITY,Low
+Kenya,indicator_11,Total,15 to 49 years old,total,total,total,2009,49.0,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,rural,total,2009,48.4,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,urban,total,2009,5.0,MALA,Medium
+Kenya,indicator_3,Total,15 to 49 years old,fourth,total,total,2009,52.4,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,highest,total,total,2009,54.6,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,total,rural,total,2009,43.8,ANTENATAL,Low
+Kenya,indicator_3,Total,15 to 49 years old,total,urban,total,2009,59.9,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2009,93.2,ANTENATAL,Medium
+Kenya,indicator_8,Total,Total,total,total,total,2009,42.6,DELIVERY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,lowest,total,total,2009,6.0,MALA,Medium
+Kenya,indicator_3,Total,15 to 49 years old,total,total,total,2009,47.1,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2009,92.7,ANTENATAL,Medium
+Kenya,indicator_8,Total,Total,second,total,total,2009,30.4,DELIVERY,Low
+Kenya,indicator_4,Total,20 to 24 years old,total,total,total,2009,25.9,DELIVERY,High
+Kenya,indicator_8,Total,Total,fourth,total,total,2009,51.4,DELIVERY,Medium
+Kenya,indicator_8,Total,Total,lowest,total,total,2009,18.0,DELIVERY,Low
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2009,95.6,ANTENATAL,Medium
+Kenya,indicator_8,Total,15 to 19 years old,total,total,total,2009,55.0,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2009,90.3,ANTENATAL,Medium
+Kenya,indicator_8,Total,Total,highest,total,total,2009,80.9,DELIVERY,High
+Kenya,indicator_3,Total,15 to 49 years old,middle,total,total,2009,36.0,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2009,95.8,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2009,91.5,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 19 years old,total,total,total,2009,39.5,ANTENATAL,Low
+Kenya,indicator_8,Total,Total,total,urban,total,2009,74.7,DELIVERY,High
+Kenya,indicator_3,Total,15 to 49 years old,lowest,total,total,2009,33.7,ANTENATAL,Low
+Kenya,indicator_3,Total,15 to 49 years old,second,total,total,2009,36.7,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2009,92.7,ANTENATAL,Medium
+Kenya,indicator_8,Total,Total,total,rural,total,2009,35.4,DELIVERY,Low
+Kenya,indicator_5,Total,15 to 19 years old,total,total,total,2009,6.7,DELIVERY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,second,total,total,2009,8.0,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,rural,total,2009,6.0,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,highest,total,total,2009,5.0,MALA,Medium
+Kenya,indicator_5,Total,Total,lowest,total,total,2009,2.0,DELIVERY,Low
+Kenya,indicator_9,Total,15 to 49 years old,fourth,total,total,2009,6.0,MALA,Medium
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2009,39.4,FAMILY_PLANNING,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2009,19.6,FAMILY_PLANNING,Low
+Kenya,indicator_5,Total,Total,total,total,total,2009,6.2,DELIVERY,Medium
+Kenya,indicator_5,Total,Total,total,urban,total,2009,11.3,DELIVERY,High
+Kenya,indicator_5,Total,Total,total,rural,total,2009,5.1,DELIVERY,Medium
+Kenya,indicator_8,Total,Total,middle,total,total,2009,41.6,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 19 years old,total,total,total,2009,90.5,ANTENATAL,Medium
+Kenya,indicator_5,Total,Total,highest,total,total,2009,14.3,DELIVERY,High
+Kenya,indicator_5,Total,Total,second,total,total,2009,3.1,DELIVERY,Low
+Kenya,indicator_5,Total,Total,middle,total,total,2009,6.4,DELIVERY,Medium
+Kenya,indicator_5,Total,Total,fourth,total,total,2009,7.1,DELIVERY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,middle,total,total,2009,5.0,MALA,Medium
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2009,83.6,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2010,85.2,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2010,85.8,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2010,88.2,ANTENATAL,Low
+Kenya,indicator_13,Total,Total,total,total,total,2010,44.0,MATERNAL_MORTALITY,Low
+Kenya,indicator_14,Total,Total,total,total,total,2010,7518.7,MATERNAL_MORTALITY,High
+Kenya,indicator_18,Total,Total,total,total,total,2010,498.38,MATERNAL_MORTALITY,High
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2010,90.5,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2010,88.9,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2010,84.1,ANTENATAL,Low
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2010,91.0,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2010,76.6,ANTENATAL,Low
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2010,110.8,FERTILITY,High
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2010,3.6,FERTILITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2011,494.75,MATERNAL_MORTALITY,High
+Kenya,indicator_13,Total,Total,total,total,total,2011,46.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2011,7406.1,MATERNAL_MORTALITY,High
+Kenya,indicator_14,Total,Total,total,total,total,2012,7339.5,MATERNAL_MORTALITY,High
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2012,100.7,FERTILITY,Medium
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2012,2.1,FERTILITY,Low
+Kenya,indicator_18,Total,Total,total,total,total,2012,496.62,MATERNAL_MORTALITY,High
+Kenya,indicator_13,Total,Total,total,total,total,2012,47.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2013,98.6,FERTILITY,Medium
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2013,3.4,FERTILITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2013,7076.8,MATERNAL_MORTALITY,High
+Kenya,indicator_18,Total,Total,total,total,total,2013,485.12,MATERNAL_MORTALITY,High
+Kenya,indicator_13,Total,Total,total,total,total,2013,51.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_5,Total,Total,total,urban,total,2014,14.7,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,total,urban,total,2014,82.4,DELIVERY,High
+Kenya,indicator_5,Total,Total,total,total,total,2014,8.7,DELIVERY,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2014,95.7,FERTILITY,Medium
+Kenya,indicator_25,Total,15 to 49 years old,total,total,total,2014,61.8,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 19 years old,total,total,total,2014,95.0,ANTENATAL,Medium
+Kenya,indicator_5,Total,Total,total,rural,total,2014,5.3,DELIVERY,Medium
+Kenya,indicator_5,Total,Total,highest,total,total,2014,19.0,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,total,rural,total,2014,50.4,DELIVERY,Medium
+Kenya,indicator_22,Total,15 to 49 years old,middle,total,total,2014,52.3,POSTNATAL_CARE,Low
+Kenya,indicator_22,Total,15 to 49 years old,second,total,total,2014,48.2,POSTNATAL_CARE,Low
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2014,88.5,ANTENATAL,Medium
+Kenya,indicator_22,Total,15 to 49 years old,lowest,total,total,2014,31.0,POSTNATAL_CARE,Low
+Kenya,indicator_18,Total,Total,total,total,total,2014,471.91,MATERNAL_MORTALITY,Medium
+Kenya,indicator_5,Total,Total,fourth,total,total,2014,11.5,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,highest,total,total,2014,92.7,DELIVERY,High
+Kenya,indicator_5,Total,Total,middle,total,total,2014,7.4,DELIVERY,Medium
+Kenya,indicator_22,Total,15 to 49 years old,fourth,total,total,2014,65.2,POSTNATAL_CARE,Medium
+Kenya,indicator_22,Total,15 to 49 years old,highest,total,total,2014,74.4,POSTNATAL_CARE,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2014,36.8,FAMILY_PLANNING,Medium
+Kenya,indicator_22,Total,15 to 49 years old,total,urban,total,2014,67.5,POSTNATAL_CARE,Medium
+Kenya,indicator_22,Total,15 to 19 years old,total,total,total,2014,56.2,POSTNATAL_CARE,Medium
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2014,2.0,FERTILITY,Low
+Kenya,indicator_22,Total,15 to 49 years old,total,rural,total,2014,44.7,POSTNATAL_CARE,Low
+Kenya,indicator_25,Total,15 to 49 years old,fourth,total,total,2014,80.6,DELIVERY,Medium
+Kenya,indicator_5,Total,Total,second,total,total,2014,4.8,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2014,97.4,ANTENATAL,High
+Kenya,indicator_3,Total,15 to 19 years old,total,total,total,2014,49.0,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2014,97.8,ANTENATAL,High
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2014,95.5,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2014,98.8,ANTENATAL,High
+Kenya,indicator_5,Total,Total,lowest,total,total,2014,2.1,DELIVERY,Low
+Kenya,indicator_25,Total,15 to 49 years old,middle,total,total,2014,63.0,DELIVERY,Medium
+Kenya,indicator_5,Total,15 to 19 years old,total,total,total,2014,6.7,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2014,95.5,ANTENATAL,Medium
+Kenya,indicator_4,Total,20 to 24 years old,total,total,total,2014,23.3,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,second,total,total,2014,49.9,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2014,94.0,ANTENATAL,Medium
+Kenya,indicator_25,Total,15 to 19 years old,total,total,total,2014,65.1,DELIVERY,Medium
+Kenya,indicator_3,Total,15 to 49 years old,total,total,total,2014,57.6,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2014,97.1,ANTENATAL,High
+Kenya,indicator_3,Total,15 to 49 years old,total,urban,total,2014,67.7,ANTENATAL,High
+Kenya,indicator_3,Total,15 to 49 years old,total,rural,total,2014,51.3,ANTENATAL,Medium
+Kenya,indicator_25,Total,15 to 49 years old,lowest,total,total,2014,31.1,DELIVERY,Low
+Kenya,indicator_22,Total,15 to 49 years old,total,total,total,2014,52.9,POSTNATAL_CARE,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,urban,total,2014,7.8,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,second,total,total,2014,56.6,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,middle,total,total,2014,58.3,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,fourth,total,total,2014,51.2,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,highest,total,total,2014,52.2,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,rural,total,2014,50.2,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,urban,total,2014,51.2,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,total,total,2014,50.6,MALA,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2014,54.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2014,53.2,FAMILY_PLANNING,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2014,6854.9,MATERNAL_MORTALITY,Medium
+Kenya,indicator_8,Total,15 to 19 years old,total,total,total,2014,67.0,DELIVERY,High
+Kenya,indicator_11,Total,15 to 49 years old,lowest,total,total,2014,38.2,MALA,Medium
+Kenya,indicator_8,Total,Total,lowest,total,total,2014,30.1,DELIVERY,Low
+Kenya,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2014,8.6,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,rural,total,2014,11.4,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2014,11.3,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,primary education,2014,10.8,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,highest,total,total,2014,7.1,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,total,2014,10.1,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,fourth,total,total,2014,8.0,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,middle,total,total,2014,13.5,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,second,total,total,2014,10.1,MALA,Medium
+Kenya,indicator_8,Total,Total,total,total,total,2014,61.2,DELIVERY,Medium
+Kenya,indicator_8,Total,Total,total,urban,total,2014,82.0,DELIVERY,High
+Kenya,indicator_8,Total,Total,total,rural,total,2014,49.5,DELIVERY,Medium
+Kenya,indicator_8,Total,Total,highest,total,total,2014,92.7,DELIVERY,High
+Kenya,indicator_8,Total,Total,fourth,total,total,2014,79.9,DELIVERY,High
+Kenya,indicator_8,Total,Total,middle,total,total,2014,62.3,DELIVERY,Medium
+Kenya,indicator_8,Total,Total,second,total,total,2014,49.1,DELIVERY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,lowest,total,total,2014,11.5,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,total,2015,21.9,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,fourth,total,total,2015,15.8,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,middle,total,total,2015,71.9,MALA,High
+Kenya,indicator_18,Total,Total,total,total,total,2015,453.39,MATERNAL_MORTALITY,Medium
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2015,61.8,FAMILY_PLANNING,High
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2015,93.7,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2015,89.1,ANTENATAL,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2015,6598.7,MATERNAL_MORTALITY,Medium
+Kenya,indicator_11,Total,15 to 49 years old,second,total,total,2015,64.0,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2015,96.2,ANTENATAL,High
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2015,30.8,FAMILY_PLANNING,Low
+Kenya,indicator_11,Total,15 to 49 years old,fourth,total,total,2015,51.7,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,urban,total,2015,59.9,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,total,rural,total,2015,56.5,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2015,93.8,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,total,total,2015,57.8,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,highest,total,total,2015,67.0,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,lowest,total,total,2015,24.1,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,middle,total,total,2015,25.8,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2015,92.5,ANTENATAL,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2015,57.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_11,Total,15 to 49 years old,lowest,total,total,2015,35.0,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,primary education,2015,25.0,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2015,19.6,MALA,Medium
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2015,97.5,ANTENATAL,High
+Kenya,indicator_9,Total,15 to 49 years old,total,urban,total,2015,22.0,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,total,rural,total,2015,21.9,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,second,total,total,2015,21.8,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2015,92.4,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2015,96.6,ANTENATAL,High
+Kenya,indicator_9,Total,15 to 49 years old,highest,total,total,2015,21.5,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2015,20.8,MALA,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2016,6410.9,MATERNAL_MORTALITY,Medium
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2016,59.3,FAMILY_PLANNING,High
+Kenya,indicator_25,Total,15 to 49 years old,total,total,total,2016,70.2,DELIVERY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2016,60.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2016,440.93,MATERNAL_MORTALITY,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2016,37.4,FAMILY_PLANNING,Medium
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2017,58.5,FAMILY_PLANNING,High
+Kenya,indicator_13,Total,Total,total,total,total,2017,64.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2017,427.56,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2017,6226.8,MATERNAL_MORTALITY,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2017,41.5,FAMILY_PLANNING,Medium
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2018,75.2,FERTILITY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2018,65.0,MATERNAL_MORTALITY,High
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2018,28.3,FAMILY_PLANNING,Low
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2018,0.7,FERTILITY,Low
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2018,59.9,FAMILY_PLANNING,High
+Kenya,indicator_18,Total,Total,total,total,total,2018,428.0,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2018,6239.6,MATERNAL_MORTALITY,Medium
+Kenya,indicator_14,Total,Total,total,total,total,2019,5996.1,MATERNAL_MORTALITY,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2019,70.0,MATERNAL_MORTALITY,High
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2019,57.1,FAMILY_PLANNING,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2019,414.88,MATERNAL_MORTALITY,Low
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2019,51.3,FERTILITY,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2019,44.1,FAMILY_PLANNING,Medium
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2019,0.8,FERTILITY,Low
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2020,96.9,ANTENATAL,High
+Kenya,indicator_3,Total,15 to 49 years old,highest,total,total,2020,56.4,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,urban,total,2020,34.6,MALA,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2020,93.2,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,second,total,total,2020,49.9,MALA,Medium
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2020,95.3,ANTENATAL,Medium
+Kenya,indicator_9,Total,15 to 49 years old,second,total,total,2020,24.2,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,total,rural,total,2020,43.6,MALA,Medium
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2020,91.0,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,lowest,total,total,2020,29.2,MALA,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2020,92.6,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,fourth,total,total,2020,57.1,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2020,94.4,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,lowest,total,total,2020,56.6,ANTENATAL,Medium
+Kenya,indicator_9,Total,15 to 49 years old,lowest,total,total,2020,22.5,MALA,High
+Kenya,indicator_3,Total,15 to 49 years old,second,total,total,2020,56.1,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,highest,total,total,2020,26.1,MALA,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2020,92.8,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,middle,total,total,2020,59.4,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,middle,total,total,2020,33.6,MALA,Low
+Kenya,indicator_3,Total,15 to 49 years old,fourth,total,total,2020,63.4,ANTENATAL,High
+Kenya,indicator_3,Total,15 to 19 years old,total,total,total,2020,57.8,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 19 years old,total,total,total,2020,86.7,ANTENATAL,Low
+Kenya,indicator_1,Total,15 to 19 years old,total,total,total,2020,43.8,FERTILITY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,fourth,total,total,2020,22.7,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,highest,total,total,2020,17.7,MALA,Medium
+Kenya,indicator_13,Total,Total,total,total,total,2020,70.0,MATERNAL_MORTALITY,High
+Kenya,indicator_1,Total,10 to 14 years old,total,total,total,2020,0.7,FERTILITY,Low
+Kenya,indicator_3,Total,15 to 49 years old,total,rural,total,2020,56.6,ANTENATAL,Medium
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2020,61.2,FAMILY_PLANNING,High
+Kenya,indicator_14,Total,Total,total,total,total,2020,6109.8,MATERNAL_MORTALITY,Medium
+Kenya,indicator_9,Total,15 to 49 years old,total,total,total,2020,22.0,MALA,High
+Kenya,indicator_9,Total,15 to 49 years old,total,urban,total,2020,21.4,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,total,total,2020,39.8,MALA,Medium
+Kenya,indicator_9,Total,15 to 49 years old,middle,total,total,2020,22.5,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2020,86.7,ANTENATAL,Low
+Kenya,indicator_3,Total,15 to 49 years old,total,urban,total,2020,62.6,ANTENATAL,High
+Kenya,indicator_9,Total,15 to 49 years old,total,rural,total,2020,22.3,MALA,High
+Kenya,indicator_3,Total,15 to 49 years old,total,total,total,2020,58.5,ANTENATAL,Medium
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2020,51.3,FAMILY_PLANNING,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2020,421.16,MATERNAL_MORTALITY,Low
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2021,60.8,FAMILY_PLANNING,High
+Kenya,indicator_14,Total,Total,total,total,total,2021,6184.1,MATERNAL_MORTALITY,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2021,420.85,MATERNAL_MORTALITY,Low
+Kenya,indicator_13,Total,Total,total,total,total,2021,71.0,MATERNAL_MORTALITY,High
+Kenya,indicator_25,Total,15 to 49 years old,total,rural,total,2022,84.8,DELIVERY,High
+Kenya,indicator_25,Total,15 to 19 years old,total,total,total,2022,88.1,DELIVERY,High
+Kenya,indicator_2,Total,15 to 49 years old,highest,total,total,2022,99.8,ANTENATAL,High
+Kenya,indicator_25,Total,15 to 49 years old,highest,total,total,2022,98.8,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,lowest,total,total,2022,69.3,DELIVERY,Medium
+Kenya,indicator_2,Total,15 to 49 years old,lowest,total,total,2022,95.0,ANTENATAL,Medium
+Kenya,indicator_2,Total,15 to 49 years old,second,total,total,2022,97.7,ANTENATAL,High
+Kenya,indicator_25,Total,15 to 49 years old,second,total,total,2022,89.0,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,fourth,total,total,2022,97.8,DELIVERY,High
+Kenya,indicator_2,Total,15 to 19 years old,total,total,total,2022,97.0,ANTENATAL,High
+Kenya,indicator_2,Total,15 to 49 years old,fourth,total,total,2022,98.7,ANTENATAL,High
+Kenya,indicator_25,Total,15 to 49 years old,total,total,total,2022,89.3,DELIVERY,High
+Kenya,indicator_6,Total,15 to 19 years old,total,total,total,2022,36.8,FAMILY_PLANNING,Medium
+Kenya,indicator_2,Total,15 to 49 years old,middle,total,total,2022,98.3,ANTENATAL,High
+Kenya,indicator_25,Total,15 to 49 years old,total,urban,total,2022,97.3,DELIVERY,High
+Kenya,indicator_25,Total,15 to 49 years old,middle,total,total,2022,94.0,DELIVERY,High
+Kenya,indicator_4,Total,20 to 24 years old,total,total,total,2022,15.3,DELIVERY,Medium
+Kenya,indicator_4,Total,20 to 24 years old,total,urban,total,2022,11.4,DELIVERY,Low
+Kenya,indicator_4,Total,20 to 24 years old,total,rural,total,2022,18.9,DELIVERY,Medium
+Kenya,indicator_4,Total,20 to 24 years old,highest,total,total,2022,8.8,DELIVERY,Low
+Kenya,indicator_4,Total,20 to 24 years old,fourth,total,total,2022,10.9,DELIVERY,Low
+Kenya,indicator_4,Total,20 to 24 years old,middle,total,total,2022,15.2,DELIVERY,Medium
+Kenya,indicator_4,Total,20 to 24 years old,second,total,total,2022,21.5,DELIVERY,Medium
+Kenya,indicator_4,Total,20 to 24 years old,lowest,total,total,2022,30.0,DELIVERY,High
+Kenya,indicator_3,Total,15 to 49 years old,total,urban,total,2022,74.1,ANTENATAL,High
+Kenya,indicator_11,Total,15 to 49 years old,total,total,total,2022,44.9,MALA,Medium
+Kenya,indicator_3,Total,15 to 49 years old,total,rural,total,2022,61.5,ANTENATAL,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,total,primary education,2022,50.6,MALA,Medium
+Kenya,indicator_11,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2022,35.4,MALA,Medium
+Kenya,indicator_3,Total,15 to 49 years old,total,total,total,2022,66.0,ANTENATAL,High
+Kenya,indicator_13,Total,Total,total,total,total,2022,79.0,MATERNAL_MORTALITY,High
+Kenya,indicator_14,Total,Total,total,total,total,2022,5762.1,MATERNAL_MORTALITY,Low
+Kenya,indicator_6,Total,15 to 49 years old,total,total,total,2022,56.4,FAMILY_PLANNING,Medium
+Kenya,indicator_18,Total,Total,total,total,total,2022,388.45,MATERNAL_MORTALITY,Low
+Kenya,indicator_11,Total,15 to 49 years old,total,total,secondary and higher,2022,43.1,MALA,Medium
+Kenya,indicator_2,Total,15 to 49 years old,total,urban,total,2022,98.9,ANTENATAL,High
+Kenya,indicator_11,Total,15 to 49 years old,second,total,total,2022,59.3,MALA,High
+Kenya,indicator_2,Total,15 to 49 years old,total,rural,total,2022,97.3,ANTENATAL,High
+Kenya,indicator_11,Total,15 to 49 years old,lowest,total,total,2022,50.9,MALA,Medium
+Kenya,indicator_22,Total,15 to 19 years old,total,total,total,2022,75.0,POSTNATAL_CARE,Medium
+Kenya,indicator_22,Total,15 to 49 years old,lowest,total,total,2022,61.7,POSTNATAL_CARE,Medium
+Kenya,indicator_22,Total,15 to 49 years old,second,total,total,2022,77.8,POSTNATAL_CARE,High
+Kenya,indicator_22,Total,15 to 49 years old,middle,total,total,2022,79.7,POSTNATAL_CARE,High
+Kenya,indicator_22,Total,15 to 49 years old,fourth,total,total,2022,80.7,POSTNATAL_CARE,High
+Kenya,indicator_22,Total,15 to 49 years old,highest,total,total,2022,89.9,POSTNATAL_CARE,High
+Kenya,indicator_22,Total,15 to 49 years old,total,rural,total,2022,74.1,POSTNATAL_CARE,Medium
+Kenya,indicator_22,Total,15 to 49 years old,total,urban,total,2022,83.6,POSTNATAL_CARE,High
+Kenya,indicator_22,Total,15 to 49 years old,total,total,total,2022,77.6,POSTNATAL_CARE,Medium
+Kenya,indicator_11,Total,15 to 49 years old,middle,total,total,2022,56.5,MALA,High
+Kenya,indicator_11,Total,15 to 49 years old,total,urban,total,2022,29.0,MALA,Low
+Kenya,indicator_3,Total,15 to 49 years old,highest,total,total,2022,82.0,ANTENATAL,High
+Kenya,indicator_11,Total,15 to 49 years old,total,rural,total,2022,56.7,MALA,High
+Kenya,indicator_3,Total,15 to 49 years old,fourth,total,total,2022,69.6,ANTENATAL,High
+Kenya,indicator_11,Total,15 to 49 years old,highest,total,total,2022,25.4,MALA,Low
+Kenya,indicator_2,Total,15 to 49 years old,total,total,total,2022,97.9,ANTENATAL,High
+Kenya,indicator_11,Total,15 to 49 years old,fourth,total,total,2022,41.0,MALA,Medium
+Kenya,indicator_3,Total,15 to 49 years old,lowest,total,total,2022,53.9,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,second,total,total,2022,59.5,ANTENATAL,Medium
+Kenya,indicator_3,Total,15 to 49 years old,middle,total,total,2022,65.3,ANTENATAL,High
+Kenya,indicator_14,Total,Total,total,total,total,2023,5681.9,MATERNAL_MORTALITY,Low
+Kenya,indicator_18,Total,Total,total,total,total,2023,378.8,MATERNAL_MORTALITY,Low
+Kenya,indicator_13,Total,Total,total,total,total,2023,82.0,MATERNAL_MORTALITY,High
+Uganda,indicator_5,Total,Total,total,urban,total,2001,79.2,DELIVERY,Medium
+Uganda,indicator_18,Total,15 to 49 years old,total,rural,total,2001,34.0,DELIVERY,Low
+Uganda,indicator_2,Total,15 to 49 years old,total,rural,total,2001,36.6,ANTENATAL,Low
+Uganda,indicator_3,Total,Total,total,rural,total,2001,2.0,DELIVERY,Low
+Uganda,indicator_5,Total,Total,total,rural,total,2001,31.5,DELIVERY,Low
+Uganda,indicator_2,Total,15 to 49 years old,total,urban,total,2001,64.5,ANTENATAL,High
+Uganda,indicator_1,Total,15 to 49 years old,total,urban,total,2001,96.8,ANTENATAL,Medium
+Uganda,indicator_3,Total,Total,total,urban,total,2001,7.3,DELIVERY,Medium
+Uganda,indicator_1,Total,15 to 49 years old,total,rural,total,2001,91.8,ANTENATAL,Low
+Uganda,indicator_18,Total,15 to 49 years old,total,urban,total,2001,80.5,DELIVERY,Medium
+Uganda,indicator_5,Total,Total,total,urban,total,2006,78.7,DELIVERY,Medium
+Uganda,indicator_5,Total,Total,total,rural,total,2006,36.3,DELIVERY,Low
+Uganda,indicator_6,Total,15 to 49 years old,total,urban,total,2006,7.0,MALA,Low
+Uganda,indicator_8,Total,15 to 49 years old,total,urban,total,2006,22.9,MALA,Low
+Uganda,indicator_8,Total,15 to 49 years old,total,rural,total,2006,8.6,MALA,Low
+Uganda,indicator_6,Total,15 to 49 years old,total,rural,total,2006,6.0,MALA,Low
+Uganda,indicator_1,Total,15 to 49 years old,total,rural,total,2006,93.0,ANTENATAL,Low
+Uganda,indicator_2,Total,15 to 49 years old,total,rural,total,2006,45.3,ANTENATAL,Low
+Uganda,indicator_18,Total,15 to 49 years old,total,urban,total,2006,79.8,DELIVERY,Medium
+Uganda,indicator_2,Total,15 to 49 years old,total,urban,total,2006,59.6,ANTENATAL,High
+Uganda,indicator_3,Total,Total,total,rural,total,2006,2.4,DELIVERY,Low
+Uganda,indicator_18,Total,15 to 49 years old,total,rural,total,2006,37.0,DELIVERY,Low
+Uganda,indicator_3,Total,Total,total,urban,total,2006,8.9,DELIVERY,Medium
+Uganda,indicator_1,Total,15 to 49 years old,total,urban,total,2006,97.2,ANTENATAL,High
+Uganda,indicator_8,Total,15 to 49 years old,total,rural,total,2011,45.6,MALA,Medium
+Uganda,indicator_8,Total,15 to 49 years old,total,urban,total,2011,55.4,MALA,Medium
+Uganda,indicator_6,Total,15 to 49 years old,total,rural,total,2011,9.3,MALA,Low
+Uganda,indicator_1,Total,15 to 49 years old,total,rural,total,2011,92.7,ANTENATAL,Low
+Uganda,indicator_1,Total,15 to 49 years old,total,urban,total,2011,96.8,ANTENATAL,Medium
+Uganda,indicator_2,Total,15 to 49 years old,total,rural,total,2011,45.8,ANTENATAL,Low
+Uganda,indicator_18,Total,15 to 49 years old,total,urban,total,2011,88.6,DELIVERY,High
+Uganda,indicator_2,Total,15 to 49 years old,total,urban,total,2011,57.0,ANTENATAL,Medium
+Uganda,indicator_18,Total,15 to 49 years old,total,rural,total,2011,52.3,DELIVERY,Medium
+Uganda,indicator_3,Total,Total,total,rural,total,2011,3.9,DELIVERY,Medium
+Uganda,indicator_3,Total,Total,total,urban,total,2011,13.7,DELIVERY,High
+Uganda,indicator_5,Total,Total,total,rural,total,2011,52.0,DELIVERY,Medium
+Uganda,indicator_5,Total,Total,total,urban,total,2011,89.5,DELIVERY,High
+Uganda,indicator_6,Total,15 to 49 years old,total,urban,total,2011,9.9,MALA,Medium
+Uganda,indicator_15,Total,15 to 49 years old,total,urban,total,2011,55.7,POSTNATAL_CARE,Medium
+Uganda,indicator_15,Total,15 to 49 years old,total,rural,total,2011,29.3,POSTNATAL_CARE,Low
+Uganda,indicator_6,Total,15 to 49 years old,total,urban,total,2015,25.8,MALA,High
+Uganda,indicator_6,Total,15 to 49 years old,total,rural,total,2015,25.1,MALA,Medium
+Uganda,indicator_6,Total,15 to 49 years old,total,urban,total,2016,15.3,MALA,Medium
+Uganda,indicator_15,Total,15 to 49 years old,total,rural,total,2016,50.9,POSTNATAL_CARE,Medium
+Uganda,indicator_15,Total,15 to 49 years old,total,urban,total,2016,66.8,POSTNATAL_CARE,High
+Uganda,indicator_6,Total,15 to 49 years old,total,rural,total,2016,17.2,MALA,Medium
+Uganda,indicator_5,Total,Total,total,urban,total,2016,87.8,DELIVERY,High
+Uganda,indicator_5,Total,Total,total,rural,total,2016,69.5,DELIVERY,Medium
+Uganda,indicator_3,Total,Total,total,urban,total,2016,11.0,DELIVERY,High
+Uganda,indicator_18,Total,15 to 49 years old,total,rural,total,2016,70.0,DELIVERY,Medium
+Uganda,indicator_2,Total,15 to 49 years old,total,rural,total,2016,58.3,ANTENATAL,Medium
+Uganda,indicator_1,Total,15 to 49 years old,total,rural,total,2016,97.1,ANTENATAL,High
+Uganda,indicator_3,Total,Total,total,rural,total,2016,4.9,DELIVERY,Medium
+Uganda,indicator_8,Total,15 to 49 years old,total,urban,total,2016,73.9,MALA,High
+Uganda,indicator_18,Total,15 to 49 years old,total,urban,total,2016,89.6,DELIVERY,High
+Uganda,indicator_8,Total,15 to 49 years old,total,rural,total,2016,75.6,MALA,High
+Uganda,indicator_1,Total,15 to 49 years old,total,urban,total,2016,98.1,ANTENATAL,High
+Uganda,indicator_2,Total,15 to 49 years old,total,urban,total,2016,65.2,ANTENATAL,High
+Uganda,indicator_1,Total,15 to 49 years old,total,urban,total,2018,96.4,ANTENATAL,Medium
+Uganda,indicator_2,Total,15 to 49 years old,total,rural,total,2018,56.4,ANTENATAL,Medium
+Uganda,indicator_2,Total,15 to 49 years old,total,urban,total,2018,57.7,ANTENATAL,Medium
+Uganda,indicator_1,Total,15 to 49 years old,total,rural,total,2018,94.7,ANTENATAL,Medium
+Uganda,indicator_8,Total,15 to 49 years old,total,rural,total,2018,64.7,MALA,Medium
+Uganda,indicator_8,Total,15 to 49 years old,total,urban,total,2018,67.9,MALA,Medium
+Uganda,indicator_6,Total,15 to 49 years old,total,rural,total,2018,40.7,MALA,High
+Uganda,indicator_6,Total,15 to 49 years old,total,urban,total,2018,40.2,MALA,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2000,567.51,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2000,8074.2,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2000,34.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2001,492.58,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2001,7177.4,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2001,39.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2002,5.8,FERTILITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2002,453.54,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2002,42.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2002,136.7,FERTILITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2002,6744.9,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2003,139.9,FERTILITY,High
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2003,4.1,FERTILITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2003,47.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2003,6084.7,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2003,396.89,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_6,Total,15 to 49 years old,total,total,total,2004,23.4,FAMILY_PLANNING,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2004,130.6,FERTILITY,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2004,365.34,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2004,5781.7,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_6,Total,15 to 19 years old,total,total,total,2004,12.0,FAMILY_PLANNING,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2004,51.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2004,5.2,FERTILITY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,lowest,total,total,2005,32.1,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,rural,total,2005,58.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_8,Total,Total,second,total,total,2005,36.8,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,highest,total,total,2005,68.4,ANTENATAL,High
+United Republic of Tanzania,indicator_8,Total,15 to 19 years old,total,total,total,2005,52.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,fourth,total,total,2005,56.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,lowest,total,total,2005,50.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,rural,total,2005,39.0,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,second,total,total,2005,55.2,ANTENATAL,Medium
+United Republic of Tanzania,indicator_8,Total,Total,middle,total,total,2005,38.9,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,middle,total,total,2005,54.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_8,Total,Total,fourth,total,total,2005,53.9,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,highest,total,total,2005,86.4,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,middle,total,total,2005,3.0,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,highest,total,total,2005,8.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,second,total,total,2005,2.3,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,total,rural,total,2005,2.1,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,lowest,total,total,2005,1.0,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,total,urban,total,2005,7.8,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,15 to 19 years old,total,total,total,2005,3.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,total,total,total,2005,3.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,total,total,total,2005,29.1,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,urban,total,2005,81.0,DELIVERY,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,total,total,2005,61.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,urban,total,2005,71.4,ANTENATAL,High
+United Republic of Tanzania,indicator_6,Total,15 to 49 years old,total,total,total,2005,20.0,FAMILY_PLANNING,Medium
+United Republic of Tanzania,indicator_6,Total,15 to 19 years old,total,total,total,2005,6.9,FAMILY_PLANNING,Low
+United Republic of Tanzania,indicator_3,Total,15 to 19 years old,total,total,total,2005,62.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,urban,total,2005,79.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,second,total,total,2005,77.6,ANTENATAL,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,total,total,2005,43.4,DELIVERY,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,lowest,total,total,2005,68.3,ANTENATAL,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,lowest,total,total,2005,2.0,MALA,Low
+United Republic of Tanzania,indicator_2,Total,15 to 19 years old,total,total,total,2005,75.5,ANTENATAL,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,second,total,total,2005,4.6,MALA,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,middle,total,total,2005,10.5,MALA,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,fourth,total,total,2005,14.4,MALA,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,highest,total,total,2005,38.8,MALA,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,rural,total,2005,8.1,MALA,Low
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2005,5681.5,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,urban,total,2005,32.2,MALA,Low
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2005,4.0,FERTILITY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,total,2005,12.8,MALA,Low
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2005,133.9,FERTILITY,High
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2005,53.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,rural,total,2005,34.8,DELIVERY,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,middle,total,total,2005,83.0,ANTENATAL,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,primary education,2005,3.0,MALA,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,total,total,2005,47.1,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,total,total,2005,78.2,ANTENATAL,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,lowest,total,total,2005,2.0,MALA,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,second,total,total,2005,3.0,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,middle,total,total,2005,2.0,MALA,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,fourth,total,total,2005,3.0,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,urban,total,2005,83.8,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 19 years old,total,total,total,2005,48.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,total,2005,3.0,MALA,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,lowest,total,total,2005,26.2,DELIVERY,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,highest,total,total,2005,4.0,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,rural,total,2005,76.6,ANTENATAL,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,highest,total,total,2005,85.4,DELIVERY,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2005,1.0,MALA,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,fourth,total,total,2005,79.3,ANTENATAL,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2005,4.0,MALA,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,middle,total,total,2005,35.8,DELIVERY,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,fourth,total,total,2005,50.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,urban,total,2005,3.0,MALA,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,second,total,total,2005,32.5,DELIVERY,Low
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2005,349.7,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,rural,total,2005,3.0,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,highest,total,total,2005,83.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_5,Total,Total,fourth,total,total,2005,2.8,DELIVERY,Low
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2006,6040.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2006,365.83,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2006,141.0,FERTILITY,High
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2006,1.4,FERTILITY,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2006,51.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2007,2.0,FERTILITY,Low
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2007,452.77,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2007,42.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2007,7535.8,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2007,128.2,FERTILITY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,fourth,total,total,2008,81.0,ANTENATAL,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,rural,total,2008,72.4,ANTENATAL,Low
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2008,8602.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,middle,total,total,2008,72.2,ANTENATAL,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,lowest,total,total,2008,71.3,ANTENATAL,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,urban,total,2008,89.2,ANTENATAL,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2008,510.53,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2008,130.0,FERTILITY,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,total,total,2008,75.8,ANTENATAL,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,second,total,total,2008,67.3,ANTENATAL,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2008,37.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2008,2.3,FERTILITY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,highest,total,total,2008,89.1,ANTENATAL,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2009,38.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2009,121.5,FERTILITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2009,501.78,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2009,8574.5,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2009,1.2,FERTILITY,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,fourth,total,total,2010,90.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,highest,total,total,2010,6.2,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,fourth,total,total,2010,1.7,MALA,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,urban,total,2010,95.6,ANTENATAL,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2010,486.05,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,urban,total,2010,82.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,second,total,total,2010,85.2,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,rural,total,2010,85.3,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,middle,total,total,2010,44.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2010,6.6,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,urban,total,2010,4.7,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,highest,total,total,2010,95.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,second,total,total,2010,33.9,DELIVERY,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,highest,total,total,2010,89.7,DELIVERY,High
+United Republic of Tanzania,indicator_25,Total,15 to 19 years old,total,total,total,2010,54.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,primary education,2010,2.5,MALA,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,total,2010,2.6,MALA,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,rural,total,2010,2.0,MALA,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,lowest,total,total,2010,31.1,DELIVERY,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,rural,total,2010,40.3,DELIVERY,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,middle,total,total,2010,85.7,ANTENATAL,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2010,1.7,MALA,Low
+United Republic of Tanzania,indicator_5,Total,Total,fourth,total,total,2010,5.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,total,total,2010,48.9,DELIVERY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,middle,total,total,2010,56.4,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,fourth,total,total,2010,57.3,MALA,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2010,8431.2,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,highest,total,total,2010,50.7,MALA,Medium
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2010,0.8,FERTILITY,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,rural,total,2010,59.2,MALA,High
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2010,123.4,FERTILITY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,urban,total,2010,46.7,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,total,2010,56.9,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,second,total,total,2010,61.5,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,middle,total,total,2010,2.8,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,lowest,total,total,2010,83.8,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 19 years old,total,total,total,2010,88.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,lowest,total,total,2010,55.6,MALA,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,fourth,total,total,2010,62.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,urban,total,2010,45.2,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,total,total,2010,30.8,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,total,total,2010,42.8,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,urban,total,2010,54.8,ANTENATAL,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,rural,total,2010,26.6,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_5,Total,Total,middle,total,total,2010,3.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,highest,total,total,2010,12.0,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,second,total,total,2010,2.3,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,total,rural,total,2010,3.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,lowest,total,total,2010,1.8,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,total,urban,total,2010,9.6,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,15 to 19 years old,total,total,total,2010,4.4,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,total,total,total,2010,4.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 19 years old,total,total,total,2010,30.7,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,total,total,total,2010,28.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,lowest,total,total,2010,20.4,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_6,Total,15 to 19 years old,total,total,total,2010,12.0,FAMILY_PLANNING,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,second,total,total,2010,21.0,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,middle,total,total,2010,29.5,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,fourth,total,total,2010,37.7,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_6,Total,15 to 49 years old,total,total,total,2010,27.4,FAMILY_PLANNING,High
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,highest,total,total,2010,49.8,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2010,40.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_8,Total,Total,middle,total,total,2010,45.8,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,lowest,total,total,2010,34.4,ANTENATAL,Low
+United Republic of Tanzania,indicator_8,Total,Total,total,rural,total,2010,41.9,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,second,total,total,2010,29.7,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,highest,total,total,2010,56.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_8,Total,Total,highest,total,total,2010,89.6,DELIVERY,High
+United Republic of Tanzania,indicator_8,Total,Total,second,total,total,2010,36.2,DELIVERY,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,middle,total,total,2010,36.3,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,fourth,total,total,2010,42.5,ANTENATAL,Low
+United Republic of Tanzania,indicator_8,Total,Total,fourth,total,total,2010,62.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,urban,total,2010,82.4,DELIVERY,High
+United Republic of Tanzania,indicator_8,Total,Total,lowest,total,total,2010,33.1,DELIVERY,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,second,total,total,2010,2.1,MALA,Low
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,lowest,total,total,2010,1.2,MALA,Low
+United Republic of Tanzania,indicator_3,Total,15 to 19 years old,total,total,total,2010,36.1,ANTENATAL,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,total,total,2010,87.8,ANTENATAL,Medium
+United Republic of Tanzania,indicator_8,Total,15 to 19 years old,total,total,total,2010,55.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,rural,total,2010,39.1,ANTENATAL,Low
+United Republic of Tanzania,indicator_8,Total,Total,total,total,total,2010,50.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2011,2.5,FERTILITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2011,8325.1,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2011,118.7,FERTILITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2011,474.61,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2011,41.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2012,44.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2012,8086.3,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2012,447.98,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2013,8983.6,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2013,0.8,FERTILITY,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2013,41.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2013,125.8,FERTILITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2013,479.07,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2014,0.6,FERTILITY,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2014,43.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2014,8759.9,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2014,453.6,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2014,132.3,FERTILITY,High
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2015,46.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2015,433.19,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2015,8478.1,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2015,2.4,FERTILITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2015,131.5,FERTILITY,High
+United Republic of Tanzania,indicator_8,Total,Total,lowest,total,total,2016,40.9,DELIVERY,Low
+United Republic of Tanzania,indicator_6,Total,15 to 49 years old,total,total,total,2016,32.0,FAMILY_PLANNING,High
+United Republic of Tanzania,indicator_6,Total,15 to 19 years old,total,total,total,2016,13.3,FAMILY_PLANNING,Medium
+United Republic of Tanzania,indicator_5,Total,Total,lowest,total,total,2016,2.4,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,second,total,total,2016,2.6,DELIVERY,Low
+United Republic of Tanzania,indicator_5,Total,Total,middle,total,total,2016,4.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,fourth,total,total,2016,7.1,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,highest,total,total,2016,15.8,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,total,rural,total,2016,3.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,total,urban,total,2016,11.8,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,total,total,total,2016,5.9,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,rural,total,2016,53.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,urban,total,2016,86.4,DELIVERY,High
+United Republic of Tanzania,indicator_8,Total,Total,total,total,total,2016,62.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,highest,total,total,2016,94.4,DELIVERY,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2016,395.55,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,second,total,total,2016,7.4,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,middle,total,total,2016,6.1,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,fourth,total,total,2016,8.1,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,highest,total,total,2016,12.5,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,rural,total,2016,6.4,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,urban,total,2016,11.1,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,lowest,total,total,2016,5.6,MALA,Medium
+United Republic of Tanzania,indicator_8,Total,Total,fourth,total,total,2016,77.8,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,15 to 19 years old,total,total,total,2016,66.9,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,second,total,total,2016,50.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,middle,total,total,2016,61.0,DELIVERY,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,rural,total,2016,55.0,DELIVERY,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,highest,total,total,2016,95.2,DELIVERY,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,middle,total,total,2016,98.3,ANTENATAL,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,fourth,total,total,2016,78.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,fourth,total,total,2016,98.3,ANTENATAL,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,middle,total,total,2016,62.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,second,total,total,2016,98.3,ANTENATAL,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,second,total,total,2016,51.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,lowest,total,total,2016,42.1,DELIVERY,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,rural,total,2016,97.8,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 19 years old,total,total,total,2016,68.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,urban,total,2016,98.5,ANTENATAL,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,highest,total,total,2016,98.3,ANTENATAL,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,urban,total,2016,87.0,DELIVERY,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,lowest,total,total,2016,96.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,total,total,2016,63.5,DELIVERY,Medium
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2016,1.5,FERTILITY,Low
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2016,138.9,FERTILITY,High
+United Republic of Tanzania,indicator_2,Total,15 to 19 years old,total,total,total,2016,98.5,ANTENATAL,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,total,total,2016,98.0,ANTENATAL,High
+United Republic of Tanzania,indicator_3,Total,15 to 19 years old,total,total,total,2016,47.7,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,total,total,2016,50.7,ANTENATAL,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,total,total,2016,34.2,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,urban,total,2016,48.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,rural,total,2016,28.9,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,highest,total,total,2016,53.6,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,fourth,total,total,2016,41.2,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,middle,total,total,2016,31.6,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,second,total,total,2016,28.5,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,lowest,total,total,2016,22.2,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_22,Total,15 to 19 years old,total,total,total,2016,35.5,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,total,total,total,2016,22.4,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,15 to 19 years old,total,total,total,2016,4.0,DELIVERY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,total,2016,7.7,MALA,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,second,total,total,2016,43.2,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,middle,total,total,2016,46.6,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,fourth,total,total,2016,56.1,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,highest,total,total,2016,69.9,ANTENATAL,High
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,rural,total,2016,45.2,ANTENATAL,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,urban,total,2016,63.8,ANTENATAL,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,second,total,total,2016,54.8,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,lowest,total,total,2016,48.1,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,urban,total,2016,55.9,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,rural,total,2016,53.1,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,highest,total,total,2016,54.3,MALA,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2016,50.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,total,2016,53.9,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,middle,total,total,2016,58.0,MALA,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2016,8011.8,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,fourth,total,total,2016,56.0,MALA,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2017,7227.6,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,highest,total,total,2017,99.8,ANTENATAL,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,fourth,total,total,2017,98.3,ANTENATAL,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,middle,total,total,2017,56.6,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,middle,total,total,2017,98.8,ANTENATAL,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,fourth,total,total,2017,59.1,MALA,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,rural,total,2017,97.4,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,second,total,total,2017,97.9,ANTENATAL,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,lowest,total,total,2017,95.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,rural,total,2017,48.6,MALA,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,urban,total,2017,59.0,MALA,High
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2017,119.7,FERTILITY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2017,57.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2017,2.7,FERTILITY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,highest,total,total,2017,52.6,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,urban,total,2017,99.4,ANTENATAL,High
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,lowest,total,total,2017,51.2,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,total,total,2017,62.2,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,lowest,total,total,2017,39.4,MALA,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,rural,total,2017,56.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,total,total,2017,98.0,ANTENATAL,High
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,highest,total,total,2017,79.2,ANTENATAL,High
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,fourth,total,total,2017,68.3,ANTENATAL,High
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,middle,total,total,2017,60.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,second,total,total,2017,51.7,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,second,total,total,2017,51.5,MALA,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,urban,total,2017,75.6,ANTENATAL,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,total,2017,51.4,MALA,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,primary education,2017,26.8,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2017,17.2,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,secondary and higher,2017,31.3,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,urban,total,2017,30.7,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,rural,total,2017,23.7,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,highest,total,total,2017,30.9,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,fourth,total,total,2017,29.1,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,middle,total,total,2017,27.2,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,second,total,total,2017,21.5,MALA,High
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,lowest,total,total,2017,20.8,MALA,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2017,345.29,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_9,Total,15 to 49 years old,total,total,total,2017,25.5,MALA,High
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2018,63.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2018,6839.5,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2018,318.94,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2019,6366.0,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2019,116.3,FERTILITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2019,291.68,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2019,1.6,FERTILITY,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2019,70.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2020,128.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_1,Total,15 to 19 years old,total,total,total,2020,112.2,FERTILITY,Medium
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2020,3551.4,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_1,Total,10 to 14 years old,total,total,total,2020,1.2,FERTILITY,Low
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2020,159.85,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2021,129.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2021,162.14,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2021,3669.0,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,secondary and higher,2022,53.9,MALA,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,middle,total,total,2022,63.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,fourth,total,total,2022,71.8,ANTENATAL,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,urban,total,2022,42.5,MALA,Low
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,urban,total,2022,95.9,DELIVERY,High
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,second,total,total,2022,88.6,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,highest,total,total,2022,83.0,ANTENATAL,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,total,2022,58.4,MALA,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,second,total,total,2022,67.7,MALA,High
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,rural,total,2022,61.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,rural,total,2022,64.5,MALA,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,primary education,2022,60.7,MALA,High
+United Republic of Tanzania,indicator_2,Total,15 to 19 years old,total,total,total,2022,91.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,second,total,total,2022,59.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,rural,total,2022,80.8,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,highest,total,total,2022,93.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,middle,total,total,2022,86.3,DELIVERY,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,fourth,total,total,2022,93.1,DELIVERY,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,second,total,total,2022,80.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,rural,total,2022,88.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,fourth,total,total,2022,63.9,MALA,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,lowest,total,total,2022,70.1,DELIVERY,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,total,total,never attended an education programme / no schooling,2022,57.3,MALA,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,fourth,total,total,2022,91.5,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,middle,total,total,2022,90.0,ANTENATAL,Medium
+United Republic of Tanzania,indicator_25,Total,15 to 19 years old,total,total,total,2022,85.1,DELIVERY,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,highest,total,total,2022,98.2,DELIVERY,High
+United Republic of Tanzania,indicator_25,Total,15 to 49 years old,total,total,total,2022,85.0,DELIVERY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2022,140.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2022,3497.3,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,total,total,2022,89.7,ANTENATAL,Medium
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,middle,total,total,2022,66.9,MALA,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,highest,total,total,2022,39.9,MALA,Low
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,lowest,total,total,2022,51.4,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,total,urban,total,2022,91.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_2,Total,15 to 49 years old,lowest,total,total,2022,85.9,ANTENATAL,Medium
+United Republic of Tanzania,indicator_5,Total,Total,total,urban,total,2022,19.1,DELIVERY,High
+United Republic of Tanzania,indicator_8,Total,Total,middle,total,total,2022,82.1,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,total,rural,total,2022,7.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,highest,total,total,2022,23.7,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,fourth,total,total,2022,11.2,DELIVERY,High
+United Republic of Tanzania,indicator_8,Total,Total,fourth,total,total,2022,90.2,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,middle,total,total,2022,10.4,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,Total,second,total,total,2022,6.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_5,Total,Total,total,total,total,2022,10.8,DELIVERY,High
+United Republic of Tanzania,indicator_8,Total,15 to 19 years old,total,total,total,2022,81.7,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,lowest,total,total,2022,63.6,DELIVERY,Medium
+United Republic of Tanzania,indicator_6,Total,15 to 49 years old,total,total,total,2022,31.1,FAMILY_PLANNING,High
+United Republic of Tanzania,indicator_6,Total,15 to 19 years old,total,total,total,2022,15.2,FAMILY_PLANNING,Medium
+United Republic of Tanzania,indicator_8,Total,Total,second,total,total,2022,76.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,urban,total,2022,75.9,ANTENATAL,High
+United Republic of Tanzania,indicator_5,Total,Total,lowest,total,total,2022,4.1,DELIVERY,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,rural,total,2022,47.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,middle,total,total,2022,27.3,DELIVERY,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,urban,total,2022,59.8,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,second,total,total,2022,36.0,DELIVERY,High
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,total,total,total,2022,50.5,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,lowest,total,total,2022,42.8,DELIVERY,High
+United Republic of Tanzania,indicator_11,Total,15 to 49 years old,lowest,total,total,2022,56.2,MALA,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,total,total,2022,81.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_3,Total,15 to 49 years old,total,total,total,2022,65.1,ANTENATAL,High
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2022,151.65,MATERNAL_MORTALITY,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,highest,total,total,2022,65.4,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,fourth,total,total,2022,18.6,DELIVERY,Low
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,highest,total,total,2022,10.0,DELIVERY,Low
+United Republic of Tanzania,indicator_8,Total,Total,highest,total,total,2022,97.2,DELIVERY,High
+United Republic of Tanzania,indicator_5,Total,15 to 19 years old,total,total,total,2022,9.2,DELIVERY,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 19 years old,total,total,total,2022,48.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,rural,total,2022,76.1,DELIVERY,Medium
+United Republic of Tanzania,indicator_8,Total,Total,total,urban,total,2022,94.3,DELIVERY,High
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,lowest,total,total,2022,37.6,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,second,total,total,2022,47.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,total,urban,total,2022,12.3,DELIVERY,Low
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,middle,total,total,2022,49.9,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,total,rural,total,2022,32.2,DELIVERY,High
+United Republic of Tanzania,indicator_22,Total,15 to 49 years old,fourth,total,total,2022,55.6,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_4,Total,20 to 24 years old,total,total,total,2022,24.9,DELIVERY,Medium
+United Republic of Tanzania,indicator_13,Total,Total,total,total,total,2023,78.0,MATERNAL_MORTALITY,High
+United Republic of Tanzania,indicator_14,Total,Total,total,total,total,2023,6472.4,MATERNAL_MORTALITY,Medium
+United Republic of Tanzania,indicator_18,Total,Total,total,total,total,2023,275.84,MATERNAL_MORTALITY,Low

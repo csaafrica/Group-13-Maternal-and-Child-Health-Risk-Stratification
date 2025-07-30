@@ -19,4 +19,4 @@ __pycache__/
 *.swo
 *.tmp
 *.~
-data/
+anaconda_projects/

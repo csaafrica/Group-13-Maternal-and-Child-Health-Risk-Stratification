@@ -1,0 +1,1056 @@
+geographic_area,indicator,sex,current_age,wealth_quintile,residence,mother's_education_level,time_period,obs_value,sub_sector,risk_category
+Kenya,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2000,8.5,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,middle,total,total,2000,33.5,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,fourth,total,total,2000,48.4,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,highest,total,total,2000,46.6,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2000,3.0,MALA,Low
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2000,3.0,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,total,rural,total,2000,53.5,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,total,urban,total,2000,33.8,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,total,total,total,2000,39.2,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2000,4.0,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2000,3.0,MALA,Low
+Kenya,indicator_21,Female,Under 5 years old,total,total,total,2000,14.0,DIAR,Low
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2000,2.0,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,second,total,total,2000,39.3,DIAR,Medium
+Kenya,indicator_21,Male,Under 5 years old,total,total,total,2000,16.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,lowest,total,total,2000,14.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,second,total,total,2000,16.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,middle,total,total,2000,14.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,fourth,total,total,2000,16.0,DIAR,Low
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2000,3.0,MALA,Low
+Kenya,indicator_21,Total,Under 5 years old,highest,total,total,2000,14.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,total,rural,total,2000,12.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,total,urban,total,2000,16.0,DIAR,Low
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2000,3.0,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2000,3.0,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2000,4.0,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,lowest,total,total,2000,32.1,DIAR,Low
+Kenya,indicator_19,Male,Under 5 years old,total,total,total,2000,39.6,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,urban,total,2000,10.1,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,total,rural,total,2000,6.9,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,highest,total,total,2000,11.3,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,fourth,total,total,2000,5.7,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,middle,total,total,2000,7.3,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,second,total,total,2000,8.4,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,lowest,total,total,2000,12.2,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2000,8.5,DIAR,Low
+Kenya,indicator_7,Male,Under 5 years old,total,total,total,2000,9.0,DIAR,Low
+Kenya,indicator_7,Female,Under 5 years old,total,total,total,2000,9.5,DIAR,Low
+Kenya,indicator_19,Female,Under 5 years old,total,total,total,2000,38.7,DIAR,Medium
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2000,3.0,MALA,Low
+Kenya,indicator_21,Total,Under 5 years old,total,total,total,2000,15.0,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,total,total,total,2000,9.2,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,total,total,primary education,2000,9.7,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,total,total,total,2003,33.0,DIAR,Medium
+Kenya,indicator_19,Female,Under 5 years old,total,total,total,2003,31.6,DIAR,Low
+Kenya,indicator_19,Male,Under 5 years old,total,total,total,2003,27.2,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,lowest,total,total,2003,29.7,DIAR,Low
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2003,4.1,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2003,4.6,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,second,total,total,2003,26.6,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,middle,total,total,2003,26.4,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,fourth,total,total,2003,27.7,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,total,total,total,2003,29.7,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,rural,total,2003,29.5,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,highest,total,total,2003,37.8,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2003,29.9,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,fourth,total,total,2003,32.7,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,middle,total,total,2003,25.2,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,second,total,total,2003,25.0,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,lowest,total,total,2003,29.7,DIAR,Medium
+Kenya,indicator_7,Male,Under 5 years old,total,total,total,2003,26.6,DIAR,Medium
+Kenya,indicator_7,Female,Under 5 years old,total,total,total,2003,33.5,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2003,30.4,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,total,primary education,2003,29.5,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,highest,total,total,2003,35.7,DIAR,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,total,total,2003,49.0,PNEU,Low
+Kenya,indicator_21,Male,Under 5 years old,total,total,total,2003,32.0,DIAR,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,urban,total,2003,63.0,PNEU,Medium
+Kenya,indicator_21,Total,Under 5 years old,lowest,total,total,2003,30.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,second,total,total,2003,31.0,DIAR,Low
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2003,4.8,MALA,Low
+Kenya,indicator_24,Total,Under 5 years old,total,rural,total,2003,46.0,PNEU,Low
+Kenya,indicator_21,Total,Under 5 years old,middle,total,total,2003,36.0,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2003,1.2,MALA,Low
+Kenya,indicator_21,Total,Under 5 years old,fourth,total,total,2003,31.0,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,highest,total,total,2003,40.0,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2003,2.2,MALA,Low
+Kenya,indicator_21,Total,Under 5 years old,total,rural,total,2003,33.0,DIAR,Medium
+Kenya,indicator_24,Male,Under 5 years old,total,total,total,2003,50.0,PNEU,Low
+Kenya,indicator_21,Total,Under 5 years old,total,urban,total,2003,36.0,DIAR,Medium
+Kenya,indicator_24,Female,Under 5 years old,total,total,total,2003,48.0,PNEU,Low
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2003,4.9,MALA,Low
+Kenya,indicator_21,Female,Under 5 years old,total,total,total,2003,35.0,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,urban,total,2003,30.7,DIAR,Medium
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2003,5.1,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,total,total,total,2003,29.2,DIAR,Low
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2003,3.5,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2003,12.0,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,total,urban,total,2003,31.9,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,total,rural,total,2003,28.5,DIAR,Low
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2003,9.8,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2009,46.7,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2009,48.7,MALA,Medium
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2009,46.2,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2009,58.3,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2009,43.6,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2009,38.3,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2009,61.8,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2009,42.3,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2009,50.5,MALA,Medium
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2009,47.3,MALA,Medium
+Kenya,indicator_19,Female,Under 5 years old,total,total,total,2009,40.0,DIAR,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,total,total,2009,55.9,PNEU,Low
+Kenya,indicator_24,Total,Under 5 years old,total,urban,total,2009,65.5,PNEU,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,rural,total,2009,53.9,PNEU,Low
+Kenya,indicator_24,Total,Under 5 years old,highest,total,total,2009,62.6,PNEU,Medium
+Kenya,indicator_24,Total,Under 5 years old,fourth,total,total,2009,52.0,PNEU,Low
+Kenya,indicator_24,Total,Under 5 years old,middle,total,total,2009,62.5,PNEU,Medium
+Kenya,indicator_24,Total,Under 5 years old,second,total,total,2009,48.0,PNEU,Low
+Kenya,indicator_24,Male,Under 5 years old,total,total,total,2009,57.4,PNEU,Medium
+Kenya,indicator_24,Female,Under 5 years old,total,total,total,2009,54.3,PNEU,Low
+Kenya,indicator_21,Total,Under 5 years old,total,total,total,2009,42.6,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,urban,total,2009,44.4,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,rural,total,2009,42.2,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,highest,total,total,2009,41.3,DIAR,Medium
+Kenya,indicator_24,Total,Under 5 years old,lowest,total,total,2009,56.5,PNEU,Medium
+Kenya,indicator_27,Total,Under 5 years old,total,total,primary education,2009,0.2,DIAR,Low
+Kenya,indicator_27,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2009,0.5,DIAR,Medium
+Kenya,indicator_27,Total,Under 5 years old,total,urban,total,2009,0.0,DIAR,Low
+Kenya,indicator_27,Total,Under 5 years old,total,rural,total,2009,0.2,DIAR,Low
+Kenya,indicator_27,Total,Under 5 years old,highest,total,total,2009,0.0,DIAR,Low
+Kenya,indicator_27,Total,Under 5 years old,fourth,total,total,2009,0.6,DIAR,Medium
+Kenya,indicator_27,Total,Under 5 years old,middle,total,total,2009,0.1,DIAR,Low
+Kenya,indicator_27,Total,Under 5 years old,second,total,total,2009,0.0,DIAR,Low
+Kenya,indicator_27,Total,Under 5 years old,lowest,total,total,2009,0.2,DIAR,Low
+Kenya,indicator_27,Male,Under 5 years old,total,total,total,2009,0.4,DIAR,Low
+Kenya,indicator_21,Total,Under 5 years old,fourth,total,total,2009,42.8,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,middle,total,total,2009,40.6,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,second,total,total,2009,34.9,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,lowest,total,total,2009,49.4,DIAR,High
+Kenya,indicator_19,Male,Under 5 years old,total,total,total,2009,37.8,DIAR,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,total,total,2009,33.5,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,total,urban,total,2009,52.9,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,total,rural,total,2009,28.9,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,highest,total,total,2009,49.5,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,fourth,total,total,2009,25.6,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,middle,total,total,2009,36.7,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,second,total,total,2009,29.4,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,lowest,total,total,2009,27.8,MALA,Low
+Kenya,indicator_15,Male,Under 5 years old,total,total,total,2009,35.1,MALA,Low
+Kenya,indicator_15,Female,Under 5 years old,total,total,total,2009,31.5,MALA,Low
+Kenya,indicator_19,Total,Under 5 years old,lowest,total,total,2009,39.8,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,second,total,total,2009,34.8,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,fourth,total,total,2009,38.7,DIAR,Medium
+Kenya,indicator_21,Male,Under 5 years old,total,total,total,2009,43.3,DIAR,Medium
+Kenya,indicator_21,Female,Under 5 years old,total,total,total,2009,41.8,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,total,2009,0.2,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,total,total,primary education,2009,0.2,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2009,0.3,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,total,urban,total,2009,0.0,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,total,rural,total,2009,0.2,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,fourth,total,total,2009,0.6,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,middle,total,total,2009,0.1,DIAR,Low
+Kenya,indicator_20,Total,Under 5 years old,lowest,total,total,2009,0.2,DIAR,Low
+Kenya,indicator_20,Male,Under 5 years old,total,total,total,2009,0.3,DIAR,Low
+Kenya,indicator_19,Total,Under 5 years old,total,total,total,2009,38.8,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,total,urban,total,2009,40.3,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,total,rural,total,2009,38.5,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,highest,total,total,2009,36.7,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,middle,total,total,2009,43.8,DIAR,Medium
+Kenya,indicator_27,Total,Under 5 years old,total,total,total,2009,0.2,DIAR,Low
+Kenya,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2009,51.2,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,rural,total,2009,48.7,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,highest,total,total,2009,46.3,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,middle,total,total,2009,57.8,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,second,total,total,2009,36.5,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,lowest,total,total,2009,48.7,DIAR,Medium
+Kenya,indicator_7,Male,Under 5 years old,total,total,total,2009,50.4,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,fourth,total,total,2009,54.0,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,urban,total,2009,48.3,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2009,53.9,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,total,total,2009,48.6,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,total,primary education,2009,46.4,DIAR,Medium
+Kenya,indicator_7,Female,Under 5 years old,total,total,total,2009,46.5,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2010,42.2,MALA,Medium
+Kenya,indicator_16,Male,Under 5 years old,total,total,total,2010,58.1,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,lowest,total,total,2010,52.6,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,second,total,total,2010,63.6,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,middle,total,total,2010,49.6,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,fourth,total,total,2010,62.4,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,highest,total,total,2010,66.5,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,rural,total,2010,57.5,MALA,Low
+Kenya,indicator_16,Female,Under 5 years old,total,total,total,2010,58.9,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,total,total,total,2010,58.5,MALA,Low
+Kenya,indicator_17,Female,Under 5 years old,total,total,total,2010,12.1,MALA,Low
+Kenya,indicator_17,Male,Under 5 years old,total,total,total,2010,11.6,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,lowest,total,total,2010,4.2,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,second,total,total,2010,10.8,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,fourth,total,total,2010,15.7,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,highest,total,total,2010,22.4,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,total,rural,total,2010,10.8,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,total,urban,total,2010,18.3,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,total,total,total,2010,11.8,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,total,urban,total,2010,64.4,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,middle,total,total,2010,11.2,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,total,total,total,2010,51.3,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2010,35.3,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2010,46.3,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2010,41.4,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2010,43.3,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2010,41.0,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2010,46.3,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2010,48.2,MALA,Medium
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2010,42.8,MALA,Medium
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2010,41.6,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,total,total,total,2014,35.6,POSTNATAL_CARE,Low
+Kenya,indicator_17,Total,Under 5 years old,total,total,total,2014,34.9,MALA,Medium
+Kenya,indicator_27,Female,Under 5 years old,total,total,total,2014,8.2,DIAR,Medium
+Kenya,indicator_27,Male,Under 5 years old,total,total,total,2014,8.1,DIAR,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,urban,total,2014,38.6,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,total,rural,total,2014,33.2,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,lowest,total,total,2014,23.5,POSTNATAL_CARE,Low
+Kenya,indicator_23,Total,15 to 49 years old,second,total,total,2014,28.2,POSTNATAL_CARE,Low
+Kenya,indicator_19,Female,Under 5 years old,total,total,total,2014,51.0,DIAR,High
+Kenya,indicator_17,Total,Under 5 years old,highest,total,total,2014,44.2,MALA,High
+Kenya,indicator_27,Total,Under 5 years old,lowest,total,total,2014,6.1,DIAR,Medium
+Kenya,indicator_27,Total,Under 5 years old,total,total,total,2014,8.1,DIAR,Medium
+Kenya,indicator_16,Female,Under 5 years old,total,total,total,2014,71.9,MALA,Medium
+Kenya,indicator_23,Total,15 to 19 years old,total,total,total,2014,34.7,POSTNATAL_CARE,Low
+Kenya,indicator_16,Male,Under 5 years old,total,total,total,2014,71.6,MALA,Medium
+Kenya,indicator_27,Total,Under 5 years old,total,total,primary education,2014,5.3,DIAR,Medium
+Kenya,indicator_16,Total,Under 5 years old,lowest,total,total,2014,68.2,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,second,total,total,2014,72.7,MALA,High
+Kenya,indicator_27,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2014,7.9,DIAR,Medium
+Kenya,indicator_16,Total,Under 5 years old,middle,total,total,2014,72.0,MALA,High
+Kenya,indicator_27,Total,Under 5 years old,total,total,secondary and higher,2014,14.1,DIAR,Medium
+Kenya,indicator_16,Total,Under 5 years old,fourth,total,total,2014,71.7,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,highest,total,total,2014,75.7,MALA,High
+Kenya,indicator_27,Total,Under 5 years old,total,urban,total,2014,11.0,DIAR,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,urban,total,2014,72.6,MALA,High
+Kenya,indicator_27,Total,Under 5 years old,total,rural,total,2014,6.7,DIAR,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,total,2014,71.7,MALA,Medium
+Kenya,indicator_27,Total,Under 5 years old,highest,total,total,2014,12.5,DIAR,Medium
+Kenya,indicator_17,Female,Under 5 years old,total,total,total,2014,34.8,MALA,Medium
+Kenya,indicator_27,Total,Under 5 years old,fourth,total,total,2014,12.2,DIAR,Medium
+Kenya,indicator_17,Male,Under 5 years old,total,total,total,2014,35.0,MALA,Medium
+Kenya,indicator_27,Total,Under 5 years old,middle,total,total,2014,7.5,DIAR,Medium
+Kenya,indicator_17,Total,Under 5 years old,lowest,total,total,2014,30.4,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,second,total,total,2014,36.9,MALA,Medium
+Kenya,indicator_27,Total,Under 5 years old,second,total,total,2014,5.2,DIAR,Medium
+Kenya,indicator_17,Total,Under 5 years old,middle,total,total,2014,31.7,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,rural,total,2014,71.4,MALA,Medium
+Kenya,indicator_19,Male,Under 5 years old,total,total,total,2014,56.3,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,highest,total,total,2014,73.5,PNEU,High
+Kenya,indicator_20,Total,Under 5 years old,middle,total,total,2014,7.4,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,fourth,total,total,2014,11.5,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,highest,total,total,2014,10.3,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,rural,total,2014,5.9,DIAR,Medium
+Kenya,indicator_24,Total,Under 5 years old,fourth,total,total,2014,63.4,PNEU,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,urban,total,2014,9.9,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,secondary and higher,2014,12.6,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2014,5.7,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,primary education,2014,5.0,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,rural,total,2014,49.2,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,middle,total,total,2014,64.9,PNEU,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,total,2014,7.2,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,second,total,total,2014,4.7,DIAR,Medium
+Kenya,indicator_21,Female,Under 5 years old,total,total,total,2014,51.1,DIAR,High
+Kenya,indicator_21,Male,Under 5 years old,total,total,total,2014,55.5,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,lowest,total,total,2014,62.6,PNEU,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,total,total,2014,85.8,MALA,Medium
+Kenya,indicator_21,Total,Under 5 years old,lowest,total,total,2014,48.2,DIAR,High
+Kenya,indicator_23,Total,15 to 49 years old,total,urban,total,2014,45.1,POSTNATAL_CARE,Medium
+Kenya,indicator_21,Total,Under 5 years old,second,total,total,2014,51.7,DIAR,High
+Kenya,indicator_24,Male,Under 5 years old,total,total,total,2014,67.7,PNEU,Medium
+Kenya,indicator_21,Total,Under 5 years old,middle,total,total,2014,51.1,DIAR,High
+Kenya,indicator_21,Total,Under 5 years old,fourth,total,total,2014,58.0,DIAR,High
+Kenya,indicator_24,Female,Under 5 years old,total,total,total,2014,63.7,PNEU,Medium
+Kenya,indicator_24,Total,Under 5 years old,second,total,total,2014,66.7,PNEU,Medium
+Kenya,indicator_21,Total,Under 5 years old,highest,total,total,2014,63.6,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,total,rural,total,2014,66.7,PNEU,Medium
+Kenya,indicator_20,Male,Under 5 years old,total,total,total,2014,7.9,DIAR,Medium
+Kenya,indicator_23,Total,15 to 49 years old,middle,total,total,2014,37.7,POSTNATAL_CARE,Medium
+Kenya,indicator_19,Total,Under 5 years old,lowest,total,total,2014,52.1,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,second,total,total,2014,53.3,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,middle,total,total,2014,55.3,DIAR,High
+Kenya,indicator_23,Total,15 to 49 years old,fourth,total,total,2014,42.4,POSTNATAL_CARE,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,total,total,2014,53.4,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,fourth,total,total,2014,55.0,DIAR,High
+Kenya,indicator_23,Total,15 to 49 years old,highest,total,total,2014,50.1,POSTNATAL_CARE,Medium
+Kenya,indicator_20,Total,Under 5 years old,lowest,total,total,2014,5.0,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,highest,total,total,2014,54.5,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,total,rural,total,2014,51.9,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,total,total,total,2014,65.7,PNEU,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,urban,total,2014,61.8,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,total,urban,total,2014,57.5,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,total,urban,total,2014,63.6,PNEU,Medium
+Kenya,indicator_23,Total,15 to 49 years old,total,rural,total,2014,30.3,POSTNATAL_CARE,Low
+Kenya,indicator_19,Total,Under 5 years old,total,total,total,2014,53.8,DIAR,High
+Kenya,indicator_20,Female,Under 5 years old,total,total,total,2014,6.5,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,total,urban,total,2014,56.7,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,total,total,total,2014,57.6,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,total,total,primary education,2014,55.9,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2014,63.3,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2014,59.1,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,total,rural,total,2014,58.1,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,highest,total,total,2014,55.6,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,fourth,total,total,2014,54.8,DIAR,Medium
+Kenya,indicator_7,Total,Under 5 years old,middle,total,total,2014,56.4,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,second,total,total,2014,58.3,DIAR,High
+Kenya,indicator_7,Total,Under 5 years old,lowest,total,total,2014,60.8,DIAR,High
+Kenya,indicator_7,Male,Under 5 years old,total,total,total,2014,59.1,DIAR,High
+Kenya,indicator_7,Female,Under 5 years old,total,total,total,2014,55.9,DIAR,High
+Kenya,indicator_15,Female,Under 5 years old,total,total,total,2014,87.4,MALA,Medium
+Kenya,indicator_15,Male,Under 5 years old,total,total,total,2014,84.3,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,lowest,total,total,2014,83.5,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2014,54.1,MALA,Medium
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2014,53.4,MALA,Medium
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2014,54.7,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2014,40.4,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,second,total,total,2014,88.2,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2014,55.2,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2014,57.3,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2014,59.6,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2014,62.5,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2014,51.7,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2014,58.9,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,middle,total,total,2014,89.2,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,fourth,total,total,2014,34.0,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,urban,total,2014,82.0,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,rural,total,2014,87.0,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,highest,total,total,2014,71.5,MALA,Low
+Kenya,indicator_15,Total,Under 5 years old,fourth,total,total,2014,85.8,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,fourth,total,total,2015,96.7,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,total,total,primary education,2015,74.5,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,total,urban,total,2015,74.6,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2015,60.6,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,total,total,total,2015,39.2,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,middle,total,total,2015,74.3,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,total,urban,total,2015,44.0,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,lowest,total,total,2015,62.7,MALA,Low
+Kenya,indicator_15,Female,Under 5 years old,total,total,total,2015,92.2,MALA,High
+Kenya,indicator_16,Female,Under 5 years old,total,total,total,2015,72.2,MALA,High
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2015,55.4,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2015,40.0,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,highest,total,total,2015,75.4,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,total,rural,total,2015,91.3,MALA,High
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2015,56.8,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,total,rural,total,2015,70.8,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2015,56.6,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,middle,total,total,2015,71.7,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,fourth,total,total,2015,78.2,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,total,total,total,2015,91.5,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,total,rural,total,2015,37.2,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,middle,total,total,2015,39.7,MALA,High
+Kenya,indicator_16,Male,Under 5 years old,total,total,total,2015,71.6,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,second,total,total,2015,42.3,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,second,total,total,2015,72.3,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,lowest,total,total,2015,83.8,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,lowest,total,total,2015,29.2,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2015,59.8,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2015,56.1,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,highest,total,total,2015,88.3,MALA,Medium
+Kenya,indicator_17,Male,Under 5 years old,total,total,total,2015,36.7,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,urban,total,2015,93.2,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2015,66.6,MALA,High
+Kenya,indicator_17,Female,Under 5 years old,total,total,total,2015,42.0,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,second,total,total,2015,93.8,MALA,High
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2015,54.4,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,total,total,total,2015,71.9,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2015,60.4,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2015,63.2,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,fourth,total,total,2015,37.5,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,total,total,secondary and higher,2015,76.4,MALA,High
+Kenya,indicator_15,Male,Under 5 years old,total,total,total,2015,90.8,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,highest,total,total,2015,51.8,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,highest,total,total,2020,65.4,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2020,39.8,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2020,52.9,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2020,46.8,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2020,42.5,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,rural,total,2020,92.2,MALA,High
+Kenya,indicator_16,Total,Under 5 years old,second,total,total,2020,60.0,MALA,Low
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2020,45.3,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,lowest,total,total,2020,69.8,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2020,42.0,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,middle,total,total,2020,57.3,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,fourth,total,total,2020,63.2,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2020,39.4,MALA,Medium
+Kenya,indicator_16,Male,Under 5 years old,total,total,total,2020,61.3,MALA,Low
+Kenya,indicator_16,Female,Under 5 years old,total,total,total,2020,65.7,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,fourth,total,total,2020,82.4,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,highest,total,total,2020,23.6,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,total,rural,total,2020,39.0,MALA,High
+Kenya,indicator_15,Male,Under 5 years old,total,total,total,2020,88.5,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,urban,total,2020,28.9,MALA,Low
+Kenya,indicator_16,Total,Under 5 years old,total,rural,total,2020,65.3,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,urban,total,2020,60.3,MALA,Low
+Kenya,indicator_15,Female,Under 5 years old,total,total,total,2020,94.5,MALA,High
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2020,40.6,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,total,total,2020,35.5,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,fourth,total,total,2020,29.9,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,total,2020,63.6,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2020,31.6,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,middle,total,total,2020,93.4,MALA,High
+Kenya,indicator_17,Female,Under 5 years old,total,total,total,2020,32.7,MALA,Medium
+Kenya,indicator_17,Male,Under 5 years old,total,total,total,2020,38.5,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,lowest,total,total,2020,37.9,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,second,total,total,2020,97.9,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,second,total,total,2020,39.5,MALA,High
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2020,42.5,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,urban,total,2020,86.3,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,middle,total,total,2020,44.6,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,total,total,total,2020,91.0,MALA,High
+Kenya,indicator_15,Total,Under 5 years old,lowest,total,total,2020,87.8,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,second,total,total,2022,60.9,MALA,High
+Kenya,indicator_23,Total,15 to 49 years old,middle,total,total,2022,84.0,POSTNATAL_CARE,High
+Kenya,indicator_27,Total,Under 5 years old,total,total,secondary and higher,2022,42.1,DIAR,High
+Kenya,indicator_24,Female,Under 5 years old,total,total,total,2022,69.5,PNEU,High
+Kenya,indicator_10,Male,Under 5 years old,total,total,total,2022,51.1,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,total,total,total,2022,82.6,POSTNATAL_CARE,Medium
+Kenya,indicator_10,Total,Under 5 years old,highest,total,total,2022,36.9,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,total,urban,total,2022,88.1,POSTNATAL_CARE,High
+Kenya,indicator_15,Total,Under 5 years old,total,urban,total,2022,75.5,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,total,rural,total,2022,79.4,POSTNATAL_CARE,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,total,primary education,2022,89.0,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,highest,total,total,2022,92.1,POSTNATAL_CARE,High
+Kenya,indicator_27,Total,Under 5 years old,total,total,primary education,2022,35.2,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,lowest,total,total,2022,48.4,MALA,Medium
+Kenya,indicator_23,Total,15 to 49 years old,fourth,total,total,2022,88.6,POSTNATAL_CARE,High
+Kenya,indicator_16,Total,Under 5 years old,lowest,total,total,2022,64.3,MALA,Medium
+Kenya,indicator_16,Female,Under 5 years old,total,total,total,2022,68.8,MALA,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,total,total,2022,73.0,PNEU,High
+Kenya,indicator_27,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,44.0,DIAR,High
+Kenya,indicator_27,Total,Under 5 years old,total,urban,total,2022,42.5,DIAR,High
+Kenya,indicator_10,Total,Under 5 years old,middle,total,total,2022,62.2,MALA,High
+Kenya,indicator_27,Total,Under 5 years old,second,total,total,2022,30.6,DIAR,Medium
+Kenya,indicator_27,Total,Under 5 years old,lowest,total,total,2022,45.2,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,highest,total,total,2022,86.4,PNEU,High
+Kenya,indicator_24,Total,Under 5 years old,fourth,total,total,2022,76.0,PNEU,High
+Kenya,indicator_27,Male,Under 5 years old,total,total,total,2022,38.7,DIAR,High
+Kenya,indicator_27,Total,Under 5 years old,middle,total,total,2022,34.9,DIAR,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,rural,total,2022,73.0,PNEU,High
+Kenya,indicator_27,Female,Under 5 years old,total,total,total,2022,40.4,DIAR,High
+Kenya,indicator_27,Total,Under 5 years old,fourth,total,total,2022,41.6,DIAR,High
+Kenya,indicator_24,Male,Under 5 years old,total,total,total,2022,75.9,PNEU,High
+Kenya,indicator_24,Total,Under 5 years old,middle,total,total,2022,62.0,PNEU,Medium
+Kenya,indicator_16,Male,Under 5 years old,total,total,total,2022,70.2,MALA,Medium
+Kenya,indicator_24,Total,Under 5 years old,second,total,total,2022,65.0,PNEU,Medium
+Kenya,indicator_27,Total,Under 5 years old,highest,total,total,2022,42.6,DIAR,High
+Kenya,indicator_10,Female,Under 5 years old,total,total,total,2022,51.3,MALA,Medium
+Kenya,indicator_24,Total,Under 5 years old,total,urban,total,2022,73.0,PNEU,High
+Kenya,indicator_27,Total,Under 5 years old,total,rural,total,2022,37.7,DIAR,High
+Kenya,indicator_24,Total,Under 5 years old,lowest,total,total,2022,74.8,PNEU,High
+Kenya,indicator_10,Total,Under 5 years old,fourth,total,total,2022,48.7,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,rural,total,2022,85.9,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,total,total,total,2022,84.0,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,middle,total,total,2022,84.1,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,rural,total,2022,56.9,MALA,High
+Kenya,indicator_19,Total,Under 5 years old,second,total,total,2022,44.7,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,middle,total,total,2022,47.7,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,fourth,total,total,2022,49.1,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,highest,total,total,2022,44.1,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,lowest,total,total,2022,54.1,DIAR,High
+Kenya,indicator_16,Total,Under 5 years old,total,rural,total,2022,69.8,MALA,Medium
+Kenya,indicator_19,Total,Under 5 years old,total,rural,total,2022,49.4,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,total,urban,total,2022,46.6,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,total,total,secondary and higher,2022,46.4,DIAR,Medium
+Kenya,indicator_19,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,52.5,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,total,total,primary education,2022,49.6,DIAR,High
+Kenya,indicator_19,Total,Under 5 years old,total,total,total,2022,48.3,DIAR,Medium
+Kenya,indicator_20,Female,Under 5 years old,total,total,total,2022,32.2,DIAR,High
+Kenya,indicator_23,Total,15 to 49 years old,second,total,total,2022,82.0,POSTNATAL_CARE,Medium
+Kenya,indicator_19,Female,Under 5 years old,total,total,total,2022,47.7,DIAR,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,primary education,2022,67.5,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,total,2022,69.5,MALA,Medium
+Kenya,indicator_17,Female,Under 5 years old,total,total,total,2022,32.2,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,second,total,total,2022,91.2,MALA,High
+Kenya,indicator_17,Male,Under 5 years old,total,total,total,2022,34.6,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,lowest,total,total,2022,33.5,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,second,total,total,2022,36.1,MALA,Medium
+Kenya,indicator_15,Total,Under 5 years old,lowest,total,total,2022,83.6,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,57.0,MALA,Low
+Kenya,indicator_17,Total,Under 5 years old,middle,total,total,2022,33.9,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,fourth,total,total,2022,29.9,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,highest,total,total,2022,34.2,MALA,Medium
+Kenya,indicator_19,Male,Under 5 years old,total,total,total,2022,48.8,DIAR,Medium
+Kenya,indicator_15,Male,Under 5 years old,total,total,total,2022,81.8,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,urban,total,2022,33.5,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,total,secondary and higher,2022,32.4,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,34.0,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,total,primary education,2022,34.6,MALA,Medium
+Kenya,indicator_15,Female,Under 5 years old,total,total,total,2022,86.1,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,total,total,secondary and higher,2022,73.2,MALA,High
+Kenya,indicator_17,Total,Under 5 years old,total,total,total,2022,33.4,MALA,Medium
+Kenya,indicator_27,Total,Under 5 years old,total,total,total,2022,39.5,DIAR,High
+Kenya,indicator_16,Total,Under 5 years old,total,urban,total,2022,68.9,MALA,Medium
+Kenya,indicator_17,Total,Under 5 years old,total,rural,total,2022,33.3,MALA,Medium
+Kenya,indicator_20,Male,Under 5 years old,total,total,total,2022,31.1,DIAR,High
+Kenya,indicator_16,Total,Under 5 years old,highest,total,total,2022,70.4,MALA,Medium
+Kenya,indicator_21,Total,Under 5 years old,highest,total,total,2022,54.7,DIAR,High
+Kenya,indicator_16,Total,Under 5 years old,middle,total,total,2022,74.2,MALA,High
+Kenya,indicator_21,Total,Under 5 years old,total,rural,total,2022,43.5,DIAR,Medium
+Kenya,indicator_15,Total,Under 5 years old,highest,total,total,2022,70.6,MALA,Low
+Kenya,indicator_21,Total,Under 5 years old,total,urban,total,2022,49.4,DIAR,High
+Kenya,indicator_21,Total,Under 5 years old,total,total,secondary and higher,2022,48.1,DIAR,High
+Kenya,indicator_21,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,43.9,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,total,primary education,2022,43.2,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,total,total,total,2022,45.8,DIAR,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,total,total,2022,51.1,MALA,Medium
+Kenya,indicator_16,Total,Under 5 years old,second,total,total,2022,69.5,MALA,Medium
+Kenya,indicator_10,Total,Under 5 years old,total,urban,total,2022,39.7,MALA,Medium
+Kenya,indicator_23,Total,15 to 19 years old,total,total,total,2022,83.2,POSTNATAL_CARE,High
+Kenya,indicator_23,Total,15 to 49 years old,lowest,total,total,2022,67.5,POSTNATAL_CARE,Medium
+Kenya,indicator_21,Total,Under 5 years old,fourth,total,total,2022,45.1,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,lowest,total,total,2022,40.5,DIAR,High
+Kenya,indicator_15,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,74.2,MALA,Medium
+Kenya,indicator_20,Total,Under 5 years old,second,total,total,2022,24.5,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,middle,total,total,2022,29.5,DIAR,Medium
+Kenya,indicator_15,Total,Under 5 years old,fourth,total,total,2022,78.9,MALA,Medium
+Kenya,indicator_20,Total,Under 5 years old,fourth,total,total,2022,32.5,DIAR,High
+Kenya,indicator_20,Total,Under 5 years old,highest,total,total,2022,28.2,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,rural,total,2022,32.0,DIAR,High
+Kenya,indicator_15,Total,Under 5 years old,total,total,secondary and higher,2022,79.3,MALA,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,urban,total,2022,31.0,DIAR,High
+Kenya,indicator_20,Total,Under 5 years old,total,total,secondary and higher,2022,30.8,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,middle,total,total,2022,44.6,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,37.8,DIAR,High
+Kenya,indicator_21,Total,Under 5 years old,second,total,total,2022,36.3,DIAR,Medium
+Kenya,indicator_21,Total,Under 5 years old,lowest,total,total,2022,46.8,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,primary education,2022,31.1,DIAR,High
+Kenya,indicator_16,Total,Under 5 years old,fourth,total,total,2022,70.2,MALA,Medium
+Kenya,indicator_21,Female,Under 5 years old,total,total,total,2022,45.9,DIAR,Medium
+Kenya,indicator_20,Total,Under 5 years old,total,total,total,2022,31.6,DIAR,High
+Kenya,indicator_21,Male,Under 5 years old,total,total,total,2022,45.6,DIAR,Medium
+Kenya,indicator_12,Total,Total,total,total,total,2023,65.9,DEMOGRAPHY,High
+Uganda,indicator_4,Total,Under 5 years old,total,rural,total,2001,43.0,DIAR,Low
+Uganda,indicator_4,Total,Under 5 years old,total,urban,total,2001,63.9,DIAR,Low
+Uganda,indicator_12,Total,Under 5 years old,total,rural,total,2001,32.5,DIAR,Low
+Uganda,indicator_14,Total,Under 5 years old,total,urban,total,2001,34.0,DIAR,Low
+Uganda,indicator_17,Total,Under 5 years old,total,urban,total,2001,80.0,PNEU,High
+Uganda,indicator_17,Total,Under 5 years old,total,rural,total,2001,65.0,PNEU,Low
+Uganda,indicator_14,Total,Under 5 years old,total,rural,total,2001,28.0,DIAR,Low
+Uganda,indicator_12,Total,Under 5 years old,total,urban,total,2001,43.5,DIAR,Medium
+Uganda,indicator_9,Total,Under 5 years old,total,rural,total,2006,4.8,MALA,Low
+Uganda,indicator_17,Total,Under 5 years old,total,rural,total,2006,74.0,PNEU,Medium
+Uganda,indicator_13,Total,Under 5 years old,total,rural,total,2006,0.4,DIAR,Low
+Uganda,indicator_13,Total,Under 5 years old,total,urban,total,2006,0.4,DIAR,Low
+Uganda,indicator_7,Total,Under 5 years old,total,rural,total,2006,8.0,MALA,Low
+Uganda,indicator_14,Total,Under 5 years old,total,urban,total,2006,48.0,DIAR,High
+Uganda,indicator_7,Total,Under 5 years old,total,urban,total,2006,21.0,MALA,Low
+Uganda,indicator_17,Total,Under 5 years old,total,urban,total,2006,68.0,PNEU,Low
+Uganda,indicator_14,Total,Under 5 years old,total,rural,total,2006,39.0,DIAR,Medium
+Uganda,indicator_19,Total,Under 5 years old,total,rural,total,2006,0.9,DIAR,Low
+Uganda,indicator_4,Total,Under 5 years old,total,urban,total,2006,68.9,DIAR,Medium
+Uganda,indicator_12,Total,Under 5 years old,total,rural,total,2006,39.4,DIAR,Low
+Uganda,indicator_19,Total,Under 5 years old,total,urban,total,2006,0.4,DIAR,Low
+Uganda,indicator_4,Total,Under 5 years old,total,rural,total,2006,70.3,DIAR,High
+Uganda,indicator_9,Total,Under 5 years old,total,urban,total,2006,7.1,MALA,Low
+Uganda,indicator_12,Total,Under 5 years old,total,urban,total,2006,41.4,DIAR,Medium
+Uganda,indicator_10,Total,Under 5 years old,total,urban,total,2009,60.8,MALA,Low
+Uganda,indicator_11,Total,Under 5 years old,total,urban,total,2009,26.6,MALA,Low
+Uganda,indicator_10,Total,Under 5 years old,total,rural,total,2009,71.7,MALA,Low
+Uganda,indicator_7,Total,Under 5 years old,total,rural,total,2009,32.8,MALA,Medium
+Uganda,indicator_7,Total,Under 5 years old,total,urban,total,2009,32.2,MALA,Low
+Uganda,indicator_11,Total,Under 5 years old,total,rural,total,2009,15.6,MALA,Low
+Uganda,indicator_10,Total,Under 5 years old,total,urban,total,2011,90.5,MALA,High
+Uganda,indicator_13,Total,Under 5 years old,total,urban,total,2011,3.1,DIAR,Medium
+Uganda,indicator_12,Total,Under 5 years old,total,urban,total,2011,46.2,DIAR,High
+Uganda,indicator_11,Total,Under 5 years old,total,urban,total,2011,52.6,MALA,High
+Uganda,indicator_13,Total,Under 5 years old,total,rural,total,2011,0.9,DIAR,Medium
+Uganda,indicator_10,Total,Under 5 years old,total,rural,total,2011,80.6,MALA,Medium
+Uganda,indicator_12,Total,Under 5 years old,total,rural,total,2011,43.1,DIAR,Medium
+Uganda,indicator_19,Total,Under 5 years old,total,urban,total,2011,3.3,DIAR,Medium
+Uganda,indicator_7,Total,Under 5 years old,total,urban,total,2011,48.9,MALA,Medium
+Uganda,indicator_19,Total,Under 5 years old,total,rural,total,2011,1.7,DIAR,Medium
+Uganda,indicator_14,Total,Under 5 years old,total,rural,total,2011,35.2,DIAR,Medium
+Uganda,indicator_17,Total,Under 5 years old,total,urban,total,2011,80.8,PNEU,High
+Uganda,indicator_4,Total,Under 5 years old,total,rural,total,2011,72.7,DIAR,High
+Uganda,indicator_17,Total,Under 5 years old,total,rural,total,2011,78.4,PNEU,Medium
+Uganda,indicator_16,Total,15 to 49 years old,total,urban,total,2011,20.9,POSTNATAL_CARE,Medium
+Uganda,indicator_16,Total,15 to 49 years old,total,rural,total,2011,9.1,POSTNATAL_CARE,Low
+Uganda,indicator_7,Total,Under 5 years old,total,rural,total,2011,41.9,MALA,Medium
+Uganda,indicator_14,Total,Under 5 years old,total,urban,total,2011,43.3,DIAR,High
+Uganda,indicator_4,Total,Under 5 years old,total,urban,total,2011,70.2,DIAR,Medium
+Uganda,indicator_11,Total,Under 5 years old,total,rural,total,2011,22.7,MALA,Low
+Uganda,indicator_11,Total,Under 5 years old,total,urban,total,2015,42.1,MALA,Medium
+Uganda,indicator_11,Total,Under 5 years old,total,rural,total,2015,34.8,MALA,Medium
+Uganda,indicator_9,Total,Under 5 years old,total,rural,total,2015,87.5,MALA,Medium
+Uganda,indicator_7,Total,Under 5 years old,total,urban,total,2015,71.2,MALA,High
+Uganda,indicator_7,Total,Under 5 years old,total,rural,total,2015,74.9,MALA,High
+Uganda,indicator_10,Total,Under 5 years old,total,urban,total,2015,90.1,MALA,High
+Uganda,indicator_10,Total,Under 5 years old,total,rural,total,2015,80.8,MALA,Medium
+Uganda,indicator_9,Total,Under 5 years old,total,urban,total,2015,80.7,MALA,Medium
+Uganda,indicator_10,Total,Under 5 years old,total,urban,total,2016,87.0,MALA,Medium
+Uganda,indicator_16,Total,15 to 49 years old,total,rural,total,2016,52.7,POSTNATAL_CARE,Medium
+Uganda,indicator_19,Total,Under 5 years old,total,urban,total,2016,43.4,DIAR,High
+Uganda,indicator_7,Total,Under 5 years old,total,rural,total,2016,60.8,MALA,Medium
+Uganda,indicator_17,Total,Under 5 years old,total,rural,total,2016,70.8,PNEU,Medium
+Uganda,indicator_4,Total,Under 5 years old,total,urban,total,2016,68.0,DIAR,Medium
+Uganda,indicator_4,Total,Under 5 years old,total,rural,total,2016,68.9,DIAR,Medium
+Uganda,indicator_17,Total,Under 5 years old,total,urban,total,2016,73.7,PNEU,Medium
+Uganda,indicator_16,Total,15 to 49 years old,total,urban,total,2016,67.9,POSTNATAL_CARE,High
+Uganda,indicator_13,Total,Under 5 years old,total,urban,total,2016,34.0,DIAR,High
+Uganda,indicator_11,Total,Under 5 years old,total,rural,total,2016,47.0,MALA,Medium
+Uganda,indicator_10,Total,Under 5 years old,total,rural,total,2016,79.7,MALA,Low
+Uganda,indicator_19,Total,Under 5 years old,total,rural,total,2016,39.6,DIAR,High
+Uganda,indicator_11,Total,Under 5 years old,total,urban,total,2016,61.4,MALA,High
+Uganda,indicator_9,Total,Under 5 years old,total,urban,total,2016,83.3,MALA,Medium
+Uganda,indicator_12,Total,Under 5 years old,total,rural,total,2016,45.3,DIAR,Medium
+Uganda,indicator_9,Total,Under 5 years old,total,rural,total,2016,88.5,MALA,High
+Uganda,indicator_12,Total,Under 5 years old,total,urban,total,2016,52.9,DIAR,High
+Uganda,indicator_13,Total,Under 5 years old,total,rural,total,2016,28.6,DIAR,High
+Uganda,indicator_7,Total,Under 5 years old,total,urban,total,2016,67.0,MALA,High
+Uganda,indicator_10,Total,Under 5 years old,total,urban,total,2018,88.8,MALA,High
+Uganda,indicator_7,Total,Under 5 years old,total,rural,total,2018,59.5,MALA,Medium
+Uganda,indicator_7,Total,Under 5 years old,total,urban,total,2018,63.0,MALA,Medium
+Uganda,indicator_9,Total,Under 5 years old,total,rural,total,2018,88.2,MALA,High
+Uganda,indicator_9,Total,Under 5 years old,total,urban,total,2018,84.6,MALA,Medium
+Uganda,indicator_11,Total,Under 5 years old,total,urban,total,2018,58.4,MALA,High
+Uganda,indicator_10,Total,Under 5 years old,total,rural,total,2018,86.7,MALA,Medium
+Uganda,indicator_11,Total,Under 5 years old,total,rural,total,2018,49.4,MALA,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,lowest,total,total,2005,52.0,PNEU,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,rural,total,2005,54.3,DIAR,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,urban,total,2005,51.2,DIAR,Medium
+United Republic of Tanzania,indicator_24,Male,Under 5 years old,total,total,total,2005,62.0,PNEU,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,highest,total,total,2005,55.6,DIAR,High
+United Republic of Tanzania,indicator_24,Female,Under 5 years old,total,total,total,2005,56.0,PNEU,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,primary education,2005,45.9,DIAR,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,second,total,total,2005,61.0,PNEU,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,lowest,total,total,2005,53.9,DIAR,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,highest,total,total,2005,67.0,PNEU,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,second,total,total,2005,58.3,DIAR,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,fourth,total,total,2005,55.0,PNEU,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,middle,total,total,2005,65.0,PNEU,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,middle,total,total,2005,56.2,DIAR,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,total,total,2005,53.9,DIAR,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,fourth,total,total,2005,45.4,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,total,2005,47.0,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,rural,total,2005,47.1,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2005,49.0,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,fourth,total,total,2005,53.0,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,rural,total,2005,52.0,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,middle,total,total,2005,52.0,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,urban,total,2005,59.0,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,second,total,total,2005,54.0,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,total,2005,53.0,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,lowest,total,total,2005,49.0,DIAR,Medium
+United Republic of Tanzania,indicator_21,Male,Under 5 years old,total,total,total,2005,53.0,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2005,51.4,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,urban,total,2005,46.6,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,highest,total,total,2005,54.9,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,fourth,total,total,2005,37.1,DIAR,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,middle,total,total,2005,47.8,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,lowest,total,total,2005,45.3,DIAR,Medium
+United Republic of Tanzania,indicator_7,Male,Under 5 years old,total,total,total,2005,49.0,DIAR,Medium
+United Republic of Tanzania,indicator_7,Female,Under 5 years old,total,total,total,2005,44.7,DIAR,Medium
+United Republic of Tanzania,indicator_21,Female,Under 5 years old,total,total,total,2005,53.0,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,second,total,total,2005,52.8,DIAR,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,rural,total,2005,58.0,PNEU,Medium
+United Republic of Tanzania,indicator_19,Female,Under 5 years old,total,total,total,2005,53.6,DIAR,High
+United Republic of Tanzania,indicator_19,Male,Under 5 years old,total,total,total,2005,54.1,DIAR,High
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2005,16.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2005,4.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2005,6.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2005,12.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2005,19.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2005,49.0,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2005,10.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2005,40.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2005,16.0,MALA,Low
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2005,16.0,MALA,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,urban,total,2005,68.0,PNEU,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,highest,total,total,2005,62.0,DIAR,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,total,total,2005,59.0,PNEU,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2008,55.0,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2008,29.0,MALA,Low
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2008,26.0,MALA,Low
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2008,25.0,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,total,2008,37.6,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2008,26.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2008,13.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2008,49.0,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2008,17.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2008,21.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2008,24.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2010,61.1,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,total,2010,64.8,MALA,Low
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,urban,total,2010,75.8,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2010,64.0,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,rural,total,2010,60.9,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2010,61.7,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,highest,total,total,2010,81.2,MALA,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,fourth,total,total,2010,53.9,DIAR,High
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2010,63.7,MALA,Medium
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2010,63.5,MALA,Medium
+United Republic of Tanzania,indicator_15,Female,Under 5 years old,total,total,total,2010,61.5,MALA,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,second,total,total,2010,5.2,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,middle,total,total,2010,6.0,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,fourth,total,total,2010,3.0,DIAR,Low
+United Republic of Tanzania,indicator_15,Male,Under 5 years old,total,total,total,2010,62.9,MALA,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,rural,total,2010,5.0,DIAR,Low
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,total,2010,4.7,DIAR,Low
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,urban,total,2010,3.7,DIAR,Low
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,secondary and higher,2010,5.3,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2010,5.4,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,primary education,2010,4.3,DIAR,Low
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,highest,total,total,2010,6.0,DIAR,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,lowest,total,total,2010,77.2,MALA,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,lowest,total,total,2010,3.4,DIAR,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2010,67.3,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,middle,total,total,2010,61.2,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2010,65.0,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,second,total,total,2010,61.6,MALA,Low
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,lowest,total,total,2010,57.9,MALA,Low
+United Republic of Tanzania,indicator_27,Female,Under 5 years old,total,total,total,2010,5.4,DIAR,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2010,63.5,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2010,64.1,MALA,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,total,2010,62.2,MALA,Medium
+United Republic of Tanzania,indicator_27,Male,Under 5 years old,total,total,total,2010,3.9,DIAR,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2010,63.6,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,urban,total,2010,48.9,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,rural,total,2010,67.6,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,highest,total,total,2010,53.0,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,fourth,total,total,2010,54.8,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,middle,total,total,2010,62.7,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,second,total,total,2010,62.6,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,fourth,total,total,2010,66.1,MALA,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,total,total,2010,70.6,PNEU,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,urban,total,2010,56.2,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,secondary and higher,2010,0.2,DIAR,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,lowest,total,total,2010,51.6,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,urban,total,2010,1.4,DIAR,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,second,total,total,2010,53.6,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,rural,total,2010,3.4,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 19 years old,total,total,total,2010,1.8,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,middle,total,total,2010,45.2,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,highest,total,total,2010,1.3,DIAR,Low
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,lowest,total,total,2010,4.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,fourth,total,total,2010,53.4,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,fourth,total,total,2010,2.9,DIAR,Low
+United Republic of Tanzania,indicator_7,Male,Under 5 years old,total,total,total,2010,53.6,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,middle,total,total,2010,4.0,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,second,total,total,2010,1.8,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,rural,total,2010,51.5,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,second,total,total,2010,4.2,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,middle,total,total,2010,2.0,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,lowest,total,total,2010,1.8,DIAR,Low
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,fourth,total,total,2010,1.5,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2010,63.1,DIAR,High
+United Republic of Tanzania,indicator_20,Male,Under 5 years old,total,total,total,2010,1.9,DIAR,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2010,48.5,DIAR,Medium
+United Republic of Tanzania,indicator_20,Female,Under 5 years old,total,total,total,2010,4.0,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,primary education,2010,52.9,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,highest,total,total,2010,62.5,DIAR,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,total,total,2010,44.0,DIAR,Medium
+United Republic of Tanzania,indicator_7,Female,Under 5 years old,total,total,total,2010,51.5,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,middle,total,total,2010,47.8,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,highest,total,total,2010,59.1,DIAR,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,second,total,total,2010,48.5,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,rural,total,2010,48.7,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,lowest,total,total,2010,45.2,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,urban,total,2010,55.2,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2010,3.2,DIAR,Medium
+United Republic of Tanzania,indicator_21,Male,Under 5 years old,total,total,total,2010,49.4,DIAR,Medium
+United Republic of Tanzania,indicator_21,Female,Under 5 years old,total,total,total,2010,51.4,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,total,2010,2.9,DIAR,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,primary education,2010,3.2,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,total,2010,50.4,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,highest,total,total,2010,3.2,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_19,Male,Under 5 years old,total,total,total,2010,43.1,DIAR,Medium
+United Republic of Tanzania,indicator_24,Female,Under 5 years old,total,total,total,2010,67.7,PNEU,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,fourth,total,total,2010,77.6,PNEU,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,lowest,total,total,2010,40.8,DIAR,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,highest,total,total,2010,38.3,DIAR,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,middle,total,total,2010,56.3,PNEU,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,second,total,total,2010,42.6,DIAR,Medium
+United Republic of Tanzania,indicator_24,Male,Under 5 years old,total,total,total,2010,73.3,PNEU,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,fourth,total,total,2010,54.0,DIAR,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,second,total,total,2010,74.7,PNEU,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,middle,total,total,2010,43.3,DIAR,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,highest,total,total,2010,93.4,PNEU,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,total,2010,52.6,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,rural,total,2010,2.7,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,urban,total,2010,44.3,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,urban,total,2010,1.7,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,urban,total,2010,86.1,PNEU,High
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,rural,total,2010,65.3,PNEU,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,rural,total,2010,43.9,DIAR,Medium
+United Republic of Tanzania,indicator_19,Female,Under 5 years old,total,total,total,2010,45.0,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,total,total,2010,2.5,POSTNATAL_CARE,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,lowest,total,total,2010,57.0,PNEU,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2012,75.0,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,rural,total,2012,76.5,MALA,Medium
+United Republic of Tanzania,indicator_16,Male,Under 5 years old,total,total,total,2012,79.2,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,lowest,total,total,2012,73.4,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,total,2012,24.9,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2012,71.8,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,second,total,total,2012,75.9,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,total,2012,77.3,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2012,70.7,MALA,High
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2012,71.1,MALA,High
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2012,71.1,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,fourth,total,total,2012,77.8,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,urban,total,2012,81.2,MALA,High
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2012,72.3,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,highest,total,total,2012,82.5,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,middle,total,total,2012,79.0,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2012,73.4,MALA,High
+United Republic of Tanzania,indicator_17,Female,Under 5 years old,total,total,total,2012,22.9,MALA,Low
+United Republic of Tanzania,indicator_17,Male,Under 5 years old,total,total,total,2012,26.9,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,lowest,total,total,2012,16.9,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,total,2012,61.3,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2012,72.0,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,second,total,total,2012,11.2,MALA,Low
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2012,71.9,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,urban,total,2012,60.5,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,middle,total,total,2012,18.7,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,rural,total,2012,16.7,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,fourth,total,total,2012,26.8,MALA,Low
+United Republic of Tanzania,indicator_16,Female,Under 5 years old,total,total,total,2012,75.4,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,highest,total,total,2012,59.0,MALA,High
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2012,72.1,MALA,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,primary education,2016,12.7,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2016,12.1,DIAR,Medium
+United Republic of Tanzania,indicator_7,Female,Under 5 years old,total,total,total,2016,42.7,DIAR,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,secondary and higher,2016,18.6,DIAR,High
+United Republic of Tanzania,indicator_7,Male,Under 5 years old,total,total,total,2016,43.5,DIAR,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,urban,total,2016,14.8,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,lowest,total,total,2016,28.0,DIAR,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,rural,total,2016,12.8,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,second,total,total,2016,43.3,DIAR,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,highest,total,total,2016,12.9,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,middle,total,total,2016,44.8,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,fourth,total,total,2016,17.9,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,fourth,total,total,2016,45.2,DIAR,Medium
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,middle,total,total,2016,13.1,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,total,total,total,2016,13.4,DIAR,High
+United Republic of Tanzania,indicator_21,Female,Under 5 years old,total,total,total,2016,46.1,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,rural,total,2016,43.5,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,highest,total,total,2016,47.9,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,fourth,total,total,2016,47.2,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,middle,total,total,2016,49.4,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,second,total,total,2016,45.2,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,lowest,total,total,2016,36.9,DIAR,Low
+United Republic of Tanzania,indicator_21,Male,Under 5 years old,total,total,total,2016,44.9,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,highest,total,total,2016,53.1,DIAR,High
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,second,total,total,2016,12.5,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,rural,total,2016,39.7,DIAR,Low
+United Republic of Tanzania,indicator_20,Total,Under 5 years old,lowest,total,total,2016,10.9,DIAR,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,lowest,total,total,2016,39.6,DIAR,Low
+United Republic of Tanzania,indicator_19,Male,Under 5 years old,total,total,total,2016,43.4,DIAR,Medium
+United Republic of Tanzania,indicator_19,Female,Under 5 years old,total,total,total,2016,46.1,DIAR,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,second,total,total,2016,41.1,DIAR,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,middle,total,total,2016,53.6,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,urban,total,2016,50.3,DIAR,Medium
+United Republic of Tanzania,indicator_20,Male,Under 5 years old,total,total,total,2016,13.9,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,secondary and higher,2016,44.4,DIAR,Low
+United Republic of Tanzania,indicator_20,Female,Under 5 years old,total,total,total,2016,13.0,DIAR,High
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2016,34.8,DIAR,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,total,total,2016,44.8,DIAR,Medium
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,primary education,2016,34.9,DIAR,Low
+United Republic of Tanzania,indicator_7,Total,Under 5 years old,total,total,total,2016,43.1,DIAR,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,urban,total,2016,46.0,DIAR,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,rural,total,2016,44.2,DIAR,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,highest,total,total,2016,45.3,DIAR,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,fourth,total,total,2016,44.0,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,urban,total,2016,49.7,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,secondary and higher,2016,51.3,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2016,38.3,DIAR,Low
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,primary education,2016,45.7,DIAR,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,total,total,2016,52.3,PNEU,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,urban,total,2016,63.8,PNEU,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,primary education,2016,15.8,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2016,14.7,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,secondary and higher,2016,16.7,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,urban,total,2016,18.1,DIAR,High
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,rural,total,2016,17.2,DIAR,High
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,highest,total,total,2016,15.3,DIAR,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,fourth,total,total,2016,22.9,DIAR,High
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,middle,total,total,2016,18.0,DIAR,High
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,second,total,total,2016,16.9,DIAR,High
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,lowest,total,total,2016,13.6,DIAR,Medium
+United Republic of Tanzania,indicator_27,Male,Under 5 years old,total,total,total,2016,18.2,DIAR,High
+United Republic of Tanzania,indicator_27,Female,Under 5 years old,total,total,total,2016,16.7,DIAR,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,total,rural,total,2016,45.8,PNEU,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,highest,total,total,2016,48.6,PNEU,Low
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,lowest,total,total,2016,28.4,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 19 years old,total,total,total,2016,46.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,total,2016,45.5,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,second,total,total,2016,34.1,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,middle,total,total,2016,40.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,fourth,total,total,2016,53.4,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,fourth,total,total,2016,57.0,PNEU,Medium
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,middle,total,total,2016,44.0,PNEU,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,second,total,total,2016,48.6,PNEU,Low
+United Republic of Tanzania,indicator_24,Total,Under 5 years old,lowest,total,total,2016,34.6,PNEU,Low
+United Republic of Tanzania,indicator_24,Male,Under 5 years old,total,total,total,2016,49.0,PNEU,Low
+United Republic of Tanzania,indicator_24,Female,Under 5 years old,total,total,total,2016,55.8,PNEU,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,total,total,2016,42.9,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,urban,total,2016,61.1,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,rural,total,2016,36.0,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,highest,total,total,2016,65.6,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2016,55.2,MALA,Medium
+United Republic of Tanzania,indicator_27,Total,Under 5 years old,total,total,total,2016,17.5,DIAR,High
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2016,52.4,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2016,52.2,MALA,Medium
+United Republic of Tanzania,indicator_15,Female,Under 5 years old,total,total,total,2016,40.8,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2016,49.1,MALA,Medium
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2016,53.7,MALA,Medium
+United Republic of Tanzania,indicator_15,Male,Under 5 years old,total,total,total,2016,45.7,MALA,Low
+United Republic of Tanzania,indicator_16,Female,Under 5 years old,total,total,total,2016,81.1,MALA,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,lowest,total,total,2016,50.7,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,total,2016,43.4,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2016,60.9,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,second,total,total,2016,51.7,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,middle,total,total,2016,43.1,MALA,Low
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,highest,total,total,2016,84.3,MALA,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,fourth,total,total,2016,35.3,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,urban,total,2016,36.0,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,highest,total,total,2016,32.0,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2016,54.4,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,total,2016,80.1,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,urban,total,2016,84.0,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,lowest,total,total,2016,72.8,MALA,Low
+United Republic of Tanzania,indicator_16,Male,Under 5 years old,total,total,total,2016,79.2,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,rural,total,2016,46.1,MALA,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2016,59.5,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,fourth,total,total,2016,83.7,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,middle,total,total,2016,83.3,MALA,High
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2016,54.6,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,rural,total,2016,78.7,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,second,total,total,2016,78.4,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2016,59.1,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,secondary and higher,2017,86.2,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,urban,total,2017,88.3,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2017,57.0,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,rural,total,2017,89.7,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,fourth,total,total,2017,81.9,MALA,High
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2017,64.1,MALA,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2017,91.1,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,primary education,2017,89.4,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,lowest,total,total,2017,68.4,MALA,Low
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,middle,total,total,2017,75.0,MALA,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,total,2017,89.4,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2017,67.8,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,second,total,total,2017,77.0,MALA,Medium
+United Republic of Tanzania,indicator_16,Female,Under 5 years old,total,total,total,2017,75.6,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2017,50.2,MALA,Medium
+United Republic of Tanzania,indicator_16,Male,Under 5 years old,total,total,total,2017,75.2,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,second,total,total,2017,33.9,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2017,66.8,MALA,High
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2017,53.3,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,highest,total,total,2017,87.2,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2017,54.6,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,fourth,total,total,2017,91.2,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,middle,total,total,2017,87.7,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,second,total,total,2017,88.7,MALA,Medium
+United Republic of Tanzania,indicator_15,Male,Under 5 years old,total,total,total,2017,87.9,MALA,Medium
+United Republic of Tanzania,indicator_15,Female,Under 5 years old,total,total,total,2017,90.8,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,lowest,total,total,2017,90.9,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,highest,total,total,2017,76.3,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,rural,total,2017,38.6,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,secondary and higher,2017,77.2,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,urban,total,2017,56.0,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,secondary and higher,2017,50.0,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2017,67.2,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2017,33.0,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,primary education,2017,77.5,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,total,2017,43.1,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2017,39.9,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,lowest,total,total,2017,32.3,MALA,Low
+United Republic of Tanzania,indicator_17,Male,Under 5 years old,total,total,total,2017,41.9,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,total,2017,75.4,MALA,Medium
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2017,55.9,MALA,Medium
+United Republic of Tanzania,indicator_17,Female,Under 5 years old,total,total,total,2017,44.2,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,highest,total,total,2017,54.2,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,primary education,2017,44.8,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,middle,total,total,2017,39.3,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,urban,total,2017,77.6,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2017,49.2,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,rural,total,2017,74.6,MALA,Low
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,fourth,total,total,2017,60.2,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,lowest,total,total,2022,44.9,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,urban,total,2022,59.1,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,fourth,total,total,2022,42.6,MALA,Medium
+United Republic of Tanzania,indicator_10,Male,Under 5 years old,total,total,total,2022,58.9,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,second,total,total,2022,46.3,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,lowest,total,total,2022,96.3,MALA,High
+United Republic of Tanzania,indicator_17,Male,Under 5 years old,total,total,total,2022,54.3,MALA,High
+United Republic of Tanzania,indicator_15,Male,Under 5 years old,total,total,total,2022,94.2,MALA,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,second,total,total,2022,91.9,MALA,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,total,total,2022,53.9,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_17,Female,Under 5 years old,total,total,total,2022,46.1,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,middle,total,total,2022,49.4,MALA,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,urban,total,2022,62.8,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,middle,total,total,2022,94.3,MALA,High
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,total,rural,total,2022,50.6,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,rural,total,2022,46.7,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,primary education,2022,49.9,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,44.7,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,total,2022,50.4,MALA,Medium
+United Republic of Tanzania,indicator_10,Female,Under 5 years old,total,total,total,2022,58.8,MALA,Medium
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,total,total,secondary and higher,2022,55.2,MALA,High
+United Republic of Tanzania,indicator_15,Female,Under 5 years old,total,total,total,2022,95.3,MALA,High
+United Republic of Tanzania,indicator_17,Total,Under 5 years old,highest,total,total,2022,66.8,MALA,High
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,fourth,total,total,2022,57.5,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,highest,total,total,2022,66.7,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,secondary and higher,2022,79.5,MALA,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,second,total,total,2022,42.0,DIAR,Low
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,middle,total,total,2022,38.7,DIAR,Low
+United Republic of Tanzania,indicator_16,Female,Under 5 years old,total,total,total,2022,75.4,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,urban,total,2022,52.7,MALA,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,fourth,total,total,2022,39.2,DIAR,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,fourth,total,total,2022,36.3,DIAR,Low
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,70.8,MALA,Low
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,highest,total,total,2022,40.4,DIAR,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,total,2022,94.7,MALA,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,rural,total,2022,41.0,DIAR,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,total,total,2022,58.9,MALA,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,urban,total,2022,42.9,DIAR,Low
+United Republic of Tanzania,indicator_16,Male,Under 5 years old,total,total,total,2022,79.5,MALA,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,middle,total,total,2022,31.0,DIAR,Low
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,lowest,total,total,2022,50.0,DIAR,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,middle,total,total,2022,65.2,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,rural,total,2022,75.6,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,fourth,total,total,2022,60.9,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,fourth,total,total,2022,75.5,MALA,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,total,total,2022,39.1,DIAR,Low
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,middle,total,total,2022,75.9,MALA,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,highest,total,total,2022,51.2,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,urban,total,2022,82.3,MALA,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,urban,total,2022,38.5,DIAR,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,second,total,total,2022,62.4,MALA,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,second,total,total,2022,80.1,MALA,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,total,rural,total,2022,39.4,DIAR,Low
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,total,rural,total,2022,61.1,MALA,Medium
+United Republic of Tanzania,indicator_21,Female,Under 5 years old,total,total,total,2022,44.7,DIAR,Medium
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,lowest,total,total,2022,70.8,MALA,Low
+United Republic of Tanzania,indicator_21,Male,Under 5 years old,total,total,total,2022,39.2,DIAR,Low
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,highest,total,total,2022,38.2,DIAR,Low
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,secondary and higher,2022,41.4,DIAR,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,rural,total,2022,94.3,MALA,High
+United Republic of Tanzania,indicator_19,Male,Under 5 years old,total,total,total,2022,36.9,DIAR,Low
+United Republic of Tanzania,indicator_23,Total,15 to 19 years old,total,total,total,2022,52.3,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,highest,total,total,2022,93.3,MALA,High
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,lowest,total,total,2022,40.2,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_10,Total,Under 5 years old,lowest,total,total,2022,54.3,MALA,Medium
+United Republic of Tanzania,indicator_19,Female,Under 5 years old,total,total,total,2022,41.8,DIAR,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,second,total,total,2022,51.9,POSTNATAL_CARE,Medium
+United Republic of Tanzania,indicator_23,Total,15 to 49 years old,middle,total,total,2022,56.3,POSTNATAL_CARE,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,fourth,total,total,2022,97.9,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,highest,total,total,2022,84.4,MALA,High
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,primary education,2022,93.7,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,primary education,2022,78.7,MALA,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,96.1,MALA,High
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,primary education,2022,41.2,DIAR,Low
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,total,2022,41.6,DIAR,Low
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,total,secondary and higher,2022,96.5,MALA,High
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,second,total,total,2022,42.5,DIAR,Medium
+United Republic of Tanzania,indicator_15,Total,Under 5 years old,total,urban,total,2022,96.1,MALA,High
+United Republic of Tanzania,indicator_16,Total,Under 5 years old,total,total,total,2022,77.6,MALA,Medium
+United Republic of Tanzania,indicator_19,Total,Under 5 years old,lowest,total,total,2022,50.8,DIAR,Medium
+United Republic of Tanzania,indicator_21,Total,Under 5 years old,total,total,never attended an education programme / no schooling,2022,43.6,DIAR,Medium
+United Republic of Tanzania,indicator_12,Total,Total,total,total,total,2023,69.8,DEMOGRAPHY,High

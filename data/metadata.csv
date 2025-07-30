@@ -1,0 +1,144 @@
+,Unnamed: 0,short_label,full_description,category
+0,0.0,indicator_1,"Adolescent birth rate (number of live births to adolescent women per 1,000 adolescent women)",mother
+1,1.0,indicator_2,Percentage of adolescents (aged 15-19 years) who had at least one alcoholic drink at any time during the last 12 months,child
+2,2.0,indicator_3,Insufficient physical activity among school going adolescents,child
+3,3.0,indicator_4,Percentage of adolescents (aged 13-15 years) who smoked cigarettes or used smoked or smokeless tobacco products at any time during the last month,child
+4,4.0,indicator_5,Antenatal care 1+ visit - percentage of women (aged 15-49 years) attended at least once during pregnancy by skilled health personnel,mother
+5,5.0,indicator_6,Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,mother
+6,6.0,indicator_7,Early childbearing - percentage of women (aged 20-24 years) who gave birth before age 18,mother
+7,7.0,indicator_8,C-section rate - percentage of deliveries by cesarean section,mother
+8,8.0,indicator_9,Demand for family planning satisfied with modern methods - percentage of women (aged 15-49 years),mother
+9,9.0,indicator_10,Careseeking for diarrhoea - percentage of children (under age 5) with diarrhoea for whom advice or treatment was sought from a health facility or provider,child
+10,10.0,indicator_11,Institutional deliveries - percentage of deliveries in a health facility,mother
+11,11.0,indicator_12,IPTp for pregnant women - percentage of women (aged 15-49 years) who received three or more doses of intermittent preventive treatment during antenatal care visits during their last pregnancy,mother
+12,12.0,indicator_13,ITN use by children - percentage of children (under age 5) who slept under an insecticide-treated mosquito net the night prior to the survey,child
+13,13.0,indicator_14,Household with insecticide treated net (ITN) and/or indoor residual spraying (IRS) - percentage of households with at least one ITN for every two persons and/or IRS in the past 12 months,
+14,14.0,indicator_15,Percentage of households with at least one insecticide-treated mosquito net (ITN),
+15,15.0,indicator_16,Pregnant women sleeping under ITN - percentage of pregnant women (aged 15-49 years) who slept under an insecticide-treated net the previous night,mother
+16,16.0,indicator_17,Life expectancy at birth - number of years newborn female children would live if subject to the mortality risks prevailing for the cross section of population at the time of their birth (estimated),child
+17,17.0,indicator_18,Lifetime risk of maternal death (probability (1 in X) that a 15-year-old girl (in the year of the estimate) will eventually die from a maternal cause),mother
+18,18.0,indicator_19,Maternal deaths (estimated),mother
+19,19.0,indicator_20,"Malaria, first line treatment - percentage of febrile children (under age 5) receiving ACT (first line antimalarial drug), among those receiving any antimalarial drugs",child
+20,20.0,indicator_21,Careseeking for febrile children - percentage of children (under age 5) with fever for whom advice or treatment was sought from a health facility or provider,child
+21,21.0,indicator_22,Malaria diagnostics - percentage of febrile children (under age 5) who had a finger or heel stick for malaria testing,child
+22,22.0,indicator_23,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",mother
+23,23.0,indicator_24,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS (packets or pre-packaged fluids),child
+24,24.0,indicator_25,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,child
+25,25.0,indicator_26,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORT (oral rehydration salts or recommended homemade fluids or increased fluids) and continued feeding,child
+26,26.0,indicator_27,Postnatal care for mothers - percentage of women (aged 15-49 years) who received postnatal care within 2 days of giving birth,mother
+27,27.0,indicator_28,Postnatal care for newborns - percentage of newborns who have a postnatal contact with a health provider within 2 days of delivery,child
+28,28.0,indicator_29,Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider,child
+29,29.0,indicator_30,Skilled birth attendant - percentage of deliveries attended by skilled health personnel,mother
+30,30.0,indicator_31,Coverage of essential health services,
+31,31.0,indicator_32,"Universal health coverage index for reproductive, maternal, newborn and child-health interventions",mother
+32,32.0,indicator_33,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,child
+33,0.0,indicator_1,Antenatal care 1+ visit - percentage of women (aged 15-49 years) attended at least once during pregnancy by skilled health personnel,mother
+34,1.0,indicator_2,Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,mother
+35,2.0,indicator_3,C-section rate - percentage of deliveries by cesarean section,mother
+36,3.0,indicator_4,Careseeking for diarrhoea - percentage of children (under age 5) with diarrhoea for whom advice or treatment was sought from a health facility or provider,child
+37,4.0,indicator_5,Institutional deliveries - percentage of deliveries in a health facility,mother
+38,5.0,indicator_6,IPTp for pregnant women - percentage of women (aged 15-49 years) who received three or more doses of intermittent preventive treatment during antenatal care visits during their last pregnancy,mother
+39,6.0,indicator_7,ITN use by children - percentage of children (under age 5) who slept under an insecticide-treated mosquito net the night prior to the survey,child
+40,7.0,indicator_8,Household with insecticide treated net (ITN) and/or indoor residual spraying (IRS) - percentage of households with at least one ITN for every two persons and/or IRS in the past 12 months,
+41,8.0,indicator_9,Percentage of households with at least one insecticide-treated mosquito net (ITN),
+42,9.0,indicator_10,Pregnant women sleeping under ITN - percentage of pregnant women (aged 15-49 years) who slept under an insecticide-treated net the previous night,mother
+43,10.0,indicator_11,"Malaria, first line treatment - percentage of febrile children (under age 5) receiving ACT (first line antimalarial drug), among those receiving any antimalarial drugs",child
+44,11.0,indicator_12,Careseeking for febrile children - percentage of children (under age 5) with fever for whom advice or treatment was sought from a health facility or provider,child
+45,12.0,indicator_13,Malaria diagnostics - percentage of febrile children (under age 5) who had a finger or heel stick for malaria testing,child
+46,13.0,indicator_14,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS (packets or pre-packaged fluids),child
+47,14.0,indicator_15,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,child
+48,15.0,indicator_16,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORT (oral rehydration salts or recommended homemade fluids or increased fluids) and continued feeding,child
+49,16.0,indicator_17,Postnatal care for mothers - percentage of women (aged 15-49 years) who received postnatal care within 2 days of giving birth,mother
+50,17.0,indicator_18,Postnatal care for newborns - percentage of newborns who have a postnatal contact with a health provider within 2 days of delivery,child
+51,18.0,indicator_19,Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider,child
+52,19.0,indicator_20,Skilled birth attendant - percentage of deliveries attended by skilled health personnel,mother
+53,20.0,indicator_21,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,child
+54,0.0,indicator_1,"Adolescent birth rate (number of live births to adolescent women per 1,000 adolescent women)",mother
+55,1.0,indicator_2,Percentage of adolescents (aged 15-19 years) who had at least one alcoholic drink at any time during the last 12 months,child
+56,2.0,indicator_3,Insufficient physical activity among school going adolescents,child
+57,3.0,indicator_4,Percentage of adolescents (aged 13-15 years) who smoked cigarettes or used smoked or smokeless tobacco products at any time during the last month,child
+58,4.0,indicator_5,Antenatal care 1+ visit - percentage of women (aged 15-49 years) attended at least once during pregnancy by skilled health personnel,mother
+59,5.0,indicator_6,Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,mother
+60,6.0,indicator_7,Early childbearing - percentage of women (aged 20-24 years) who gave birth before age 18,mother
+61,7.0,indicator_8,C-section rate - percentage of deliveries by cesarean section,mother
+62,8.0,indicator_9,Demand for family planning satisfied with modern methods - percentage of women (aged 15-49 years),mother
+63,9.0,indicator_10,Careseeking for diarrhoea - percentage of children (under age 5) with diarrhoea for whom advice or treatment was sought from a health facility or provider,child
+64,10.0,indicator_11,"Proportion of women aged 15-19 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+65,11.0,indicator_12,Institutional deliveries - percentage of deliveries in a health facility,mother
+66,12.0,indicator_13,IPTp for pregnant women - percentage of women (aged 15-49 years) who received three or more doses of intermittent preventive treatment during antenatal care visits during their last pregnancy,mother
+67,13.0,indicator_14,ITN use by children - percentage of children (under age 5) who slept under an insecticide-treated mosquito net the night prior to the survey,child
+68,14.0,indicator_15,Household with insecticide treated net (ITN) and/or indoor residual spraying (IRS) - percentage of households with at least one ITN for every two persons and/or IRS in the past 12 months,
+69,15.0,indicator_16,Percentage of households with at least one insecticide-treated mosquito net (ITN),
+70,16.0,indicator_17,Pregnant women sleeping under ITN - percentage of pregnant women (aged 15-49 years) who slept under an insecticide-treated net the previous night,mother
+71,17.0,indicator_18,Life expectancy at birth - number of years newborn female children would live if subject to the mortality risks prevailing for the cross section of population at the time of their birth (estimated),child
+72,18.0,indicator_19,Lifetime risk of maternal death (probability (1 in X) that a 15-year-old girl (in the year of the estimate) will eventually die from a maternal cause),mother
+73,19.0,indicator_20,Maternal deaths (estimated),mother
+74,20.0,indicator_21,"Malaria, first line treatment - percentage of febrile children (under age 5) receiving ACT (first line antimalarial drug), among those receiving any antimalarial drugs",child
+75,21.0,indicator_22,Careseeking for febrile children - percentage of children (under age 5) with fever for whom advice or treatment was sought from a health facility or provider,child
+76,22.0,indicator_23,Malaria diagnostics - percentage of febrile children (under age 5) who had a finger or heel stick for malaria testing,child
+77,23.0,indicator_24,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",mother
+78,24.0,indicator_25,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS (packets or pre-packaged fluids),child
+79,25.0,indicator_26,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,child
+80,26.0,indicator_27,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORT (oral rehydration salts or recommended homemade fluids or increased fluids) and continued feeding,child
+81,27.0,indicator_28,Postnatal care for mothers - percentage of women (aged 15-49 years) who received postnatal care within 2 days of giving birth,mother
+82,28.0,indicator_29,Postnatal care for newborns - percentage of newborns who have a postnatal contact with a health provider within 2 days of delivery,child
+83,29.0,indicator_30,Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider,child
+84,30.0,indicator_31,Skilled birth attendant - percentage of deliveries attended by skilled health personnel,mother
+85,31.0,indicator_32,Coverage of essential health services,
+86,32.0,indicator_33,"Universal health coverage index for reproductive, maternal, newborn and child-health interventions",mother
+87,33.0,indicator_34,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,child
+0,,indicator_1,Antenatal care 1+ visit - percentage of women (aged 15-49 years) attended at least once during pregnancy by skilled health personnel,
+1,,indicator_2,Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,
+2,,indicator_3,C-section rate - percentage of deliveries by cesarean section,
+3,,indicator_4,Careseeking for diarrhoea - percentage of children (under age 5) with diarrhoea for whom advice or treatment was sought from a health facility or provider,
+4,,indicator_5,Institutional deliveries - percentage of deliveries in a health facility,
+5,,indicator_6,IPTp for pregnant women - percentage of women (aged 15-49 years) who received three or more doses of intermittent preventive treatment during antenatal care visits during their last pregnancy,
+6,,indicator_7,ITN use by children - percentage of children (under age 5) who slept under an insecticide-treated mosquito net the night prior to the survey,
+7,,indicator_8,Household with insecticide treated net (ITN) and/or indoor residual spraying (IRS) - percentage of households with at least one ITN for every two persons and/or IRS in the past 12 months,
+8,,indicator_9,Percentage of households with at least one insecticide-treated mosquito net (ITN),
+9,,indicator_10,Pregnant women sleeping under ITN - percentage of pregnant women (aged 15-49 years) who slept under an insecticide-treated net the previous night,
+10,,indicator_11,"Malaria, first line treatment - percentage of febrile children (under age 5) receiving ACT (first line antimalarial drug), among those receiving any antimalarial drugs",
+11,,indicator_12,Careseeking for febrile children - percentage of children (under age 5) with fever for whom advice or treatment was sought from a health facility or provider,
+12,,indicator_13,Malaria diagnostics - percentage of febrile children (under age 5) who had a finger or heel stick for malaria testing,
+13,,indicator_14,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS (packets or pre-packaged fluids),
+14,,indicator_15,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,
+15,,indicator_16,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORT (oral rehydration salts or recommended homemade fluids or increased fluids) and continued feeding,
+16,,indicator_17,Postnatal care for mothers - percentage of women (aged 15-49 years) who received postnatal care within 2 days of giving birth,
+17,,indicator_18,Postnatal care for newborns - percentage of newborns who have a postnatal contact with a health provider within 2 days of delivery,
+18,,indicator_19,Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider,
+19,,indicator_20,Skilled birth attendant - percentage of deliveries attended by skilled health personnel,
+20,,indicator_21,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,
+0,,indicator_1,"Adolescent birth rate (number of live births to adolescent women per 1,000 adolescent women)",
+1,,indicator_2,Percentage of adolescents (aged 15-19 years) who had at least one alcoholic drink at any time during the last 12 months,
+2,,indicator_3,Insufficient physical activity among school going adolescents,
+3,,indicator_4,Percentage of adolescents (aged 13-15 years) who smoked cigarettes or used smoked or smokeless tobacco products at any time during the last month,
+4,,indicator_5,Antenatal care 1+ visit - percentage of women (aged 15-49 years) attended at least once during pregnancy by skilled health personnel,
+5,,indicator_6,Antenatal care 4+ visits - percentage of women (aged 15-49 years) attended at least four times during pregnancy by any provider,
+6,,indicator_7,Early childbearing - percentage of women (aged 20-24 years) who gave birth before age 18,
+7,,indicator_8,C-section rate - percentage of deliveries by cesarean section,
+8,,indicator_9,Demand for family planning satisfied with modern methods - percentage of women (aged 15-49 years),
+9,,indicator_10,Careseeking for diarrhoea - percentage of children (under age 5) with diarrhoea for whom advice or treatment was sought from a health facility or provider,
+10,,indicator_11,"Proportion of women aged 15-19 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+11,,indicator_12,Institutional deliveries - percentage of deliveries in a health facility,
+12,,indicator_13,IPTp for pregnant women - percentage of women (aged 15-49 years) who received three or more doses of intermittent preventive treatment during antenatal care visits during their last pregnancy,
+13,,indicator_14,ITN use by children - percentage of children (under age 5) who slept under an insecticide-treated mosquito net the night prior to the survey,
+14,,indicator_15,Household with insecticide treated net (ITN) and/or indoor residual spraying (IRS) - percentage of households with at least one ITN for every two persons and/or IRS in the past 12 months,
+15,,indicator_16,Percentage of households with at least one insecticide-treated mosquito net (ITN),
+16,,indicator_17,Pregnant women sleeping under ITN - percentage of pregnant women (aged 15-49 years) who slept under an insecticide-treated net the previous night,
+17,,indicator_18,Life expectancy at birth - number of years newborn female children would live if subject to the mortality risks prevailing for the cross section of population at the time of their birth (estimated),
+18,,indicator_19,Lifetime risk of maternal death (probability (1 in X) that a 15-year-old girl (in the year of the estimate) will eventually die from a maternal cause),
+19,,indicator_20,Maternal deaths (estimated),
+20,,indicator_21,"Malaria, first line treatment - percentage of febrile children (under age 5) receiving ACT (first line antimalarial drug), among those receiving any antimalarial drugs",
+21,,indicator_22,Careseeking for febrile children - percentage of children (under age 5) with fever for whom advice or treatment was sought from a health facility or provider,
+22,,indicator_23,Malaria diagnostics - percentage of febrile children (under age 5) who had a finger or heel stick for malaria testing,
+23,,indicator_24,"Maternal mortality ratio (number of maternal deaths per 100,000 live births)",
+24,,indicator_25,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS (packets or pre-packaged fluids),
+25,,indicator_26,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,
+26,,indicator_27,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORT (oral rehydration salts or recommended homemade fluids or increased fluids) and continued feeding,
+27,,indicator_28,Postnatal care for mothers - percentage of women (aged 15-49 years) who received postnatal care within 2 days of giving birth,
+28,,indicator_29,Postnatal care for newborns - percentage of newborns who have a postnatal contact with a health provider within 2 days of delivery,
+29,,indicator_30,Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider,
+30,,indicator_31,Skilled birth attendant - percentage of deliveries attended by skilled health personnel,
+31,,indicator_32,Coverage of essential health services,
+32,,indicator_33,"Universal health coverage index for reproductive, maternal, newborn and child-health interventions",
+33,,indicator_34,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received zinc,
