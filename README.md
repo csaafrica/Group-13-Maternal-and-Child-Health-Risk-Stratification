@@ -43,9 +43,9 @@ streamlit run main.py
 
 **Contributors**
 
-**Jomo** [https://github.com/jomoziqu]
+[**Jomo**](https://github.com/jomoziqu)
 
-**Victoria** [https://github.com/Vickie556]
+[**Victoria**](https://github.com/Vickie556)
 
 **Taoheed**
 
