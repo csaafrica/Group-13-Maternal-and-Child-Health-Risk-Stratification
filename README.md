@@ -21,7 +21,6 @@ This project is an interactive **Streamlit dashboard** designed to explore, anal
   - Child Health
   - Mother Health
   - Risk Trends
-  - Prediction
   - Indicator Metadata
     
 
