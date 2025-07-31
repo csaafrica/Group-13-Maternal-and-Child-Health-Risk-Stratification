@@ -37,17 +37,18 @@ cd Group-13-Maternal-and-Child-Health-Risk-Stratification
 2.  **Clone the repository**
 pip install -r requirements.txt
 
-## Run Locally
+**Run Locally**
 
 streamlit run main.py
 
 
 **Contributors**
-Jomo [https://github.com/jomoziqu]
 
-Victoria [https://github.com/Vickie556]
+**Jomo** [https://github.com/jomoziqu]
 
-Taoheed
+**Victoria** [https://github.com/Vickie556]
+
+**Taoheed**
 
 
 ![WhatsApp Image 2025-07-31 at 10 48 23_02b08ebc](https://github.com/user-attachments/assets/f08d9186-438e-40a1-ac6a-3a8ddbf56023)
