@@ -24,13 +24,13 @@ This project is an interactive **Streamlit dashboard** designed to explore, anal
   - Risk Trends
   - Prediction
   - Indicator Metadata
-
+    
 
 ## 🛠️ Installation
 
 1. **Clone the repository**
 
-```bash
+```bash```
 git clone [https://github.com/csaafrica/Group-13-Maternal-and-Child-Health-Risk-Stratification.git]
 cd Group-13-Maternal-and-Child-Health-Risk-Stratification
 
@@ -41,4 +41,16 @@ pip install -r requirements.txt
 
 streamlit run main.py
 
----
+
+**Contributors**
+Jomo [https://github.com/jomoziqu]
+
+Victoria [https://github.com/Vickie556]
+
+Taoheed
+
+
+![WhatsApp Image 2025-07-31 at 10 48 23_02b08ebc](https://github.com/user-attachments/assets/f08d9186-438e-40a1-ac6a-3a8ddbf56023)
+
+ 
+
