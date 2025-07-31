@@ -25,7 +25,6 @@ This project is an interactive **Streamlit dashboard** designed to explore, anal
   - Prediction
   - Indicator Metadata
 
----
 
 ## 🛠️ Installation
 
