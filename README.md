@@ -6,8 +6,7 @@ This project is an interactive **Streamlit dashboard** designed to explore, anal
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the deployed app on Streamlit Cloud][https://maternal-child-health.streamlit.app/]
-
+🔗 [Click here to view the deployed app on Streamlit Cloud](https://your-streamlit-link.streamlit.app)
 ---
 
 ## 📊 Features
