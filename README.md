@@ -6,7 +6,7 @@ This project is an interactive **Streamlit dashboard** designed to explore, anal
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the deployed app on Streamlit Cloud](https://your-streamlit-link.streamlit.app)
+🔗 [Click here to view the deployed app on Streamlit Cloud](https://maternal-child-health.streamlit.app/)
 ---
 
 ## 📊 Features
@@ -31,14 +31,15 @@ This project is an interactive **Streamlit dashboard** designed to explore, anal
 
 ```bash```
 git clone [https://github.com/csaafrica/Group-13-Maternal-and-Child-Health-Risk-Stratification.git]
-cd Group-13-Maternal-and-Child-Health-Risk-Stratification
+
+- cd Group-13-Maternal-and-Child-Health-Risk-Stratification
 
 2.  **Clone the repository**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **Run Locally**
 
-streamlit run main.py
+- streamlit run main.py
 
 
 **Contributors**
