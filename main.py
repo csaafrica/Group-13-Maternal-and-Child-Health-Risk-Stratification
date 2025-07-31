@@ -168,7 +168,7 @@ def show_child_ui():
             st.pyplot(fig)
     elif section == "Indicator Metadata":
         st.title("ℹ️ Indicator Metadata")
-        met = pd.read_csv("../data/metadata.csv")
+        met = pd.read_csv("data/metadata.csv")
         met.drop(columns=['Unnamed: 0', 'category', 'Unnamed: 0.1'], inplace=True, errors='ignore')
         st.dataframe(met)
 
@@ -325,7 +325,7 @@ def show_mother_ui():
         st.pyplot(fig)
     elif section == "Indicator Metadata":
         st.title("ℹ️ Indicator Metadata")
-        met = pd.read_csv("../data/metadata.csv")
+        met = pd.read_csv("data/metadata.csv")
         met.drop(columns=['Unnamed: 0', 'category', 'Unnamed: 0.1'], inplace=True, errors='ignore')
         st.dataframe(met)
 
